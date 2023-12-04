@@ -1,0 +1,49 @@
+Node,Layer,Interlayer Centrality,Eigenvector Centrality,Connections
+acceptance,0,7,0.29889**,
+agriculture,0,6,0.248587,
+benefit,0,4,0.16776,
+bigbottomed,0,7,0.216313,"connects with node bigbottomed, in Layer 1"
+cricket,0,4,0.042952,"connects with node cricket, in Layer 1"
+cultural,0,6,0.145175,"connects with node cultural, in Layer 1"
+culturally,0,2,0.084126,
+culture,0,8,0.279843,"connects with node culture, in Layer 1"
+diverse,0,4,0.172907,
+diversity,0,8,0.242109,"connects with node diversity, in Layer 1"
+ecological,0,7,0.232578,"connects with node ecological, in Layer 1"
+economic,0,8,0.253819,"connects with node economic, in Layer 1"
+ecosystem,0,7,0.283366***,
+environmental,0,4,0.084126,"connects with node environmental, in Layer 1"
+food,0,2,0.064229,
+harmful,0,5,0.21402,
+heritage,0,8,0.240673,"connects with node heritage, in Layer 1"
+history,0,5,0.245349,
+insect,0,6,0.156409,"connects with node insect, in Layer 1"
+nutritional,0,2,0.0,"connects with node nutritional, in Layer 1"
+protein,0,7,0.20781,"connects with node protein, in Layer 1"
+region,0,2,0.104204,
+tradition,0,9,0.312484*,"connects with node tradition, in Layer 1"
+traditional,0,8,0.164371,"connects with node traditional, in Layer 1"
+bigbottomed,1,3,0.030884,
+cockroach,1,8,0.233929,
+colombi,1,5,0.140183,
+cricket,1,11,0.221461,
+cultural,1,20,0.358851*,
+culture,1,19,0.322483**,
+delicious,1,4,0.128006,
+diversity,1,12,0.256679,
+ecological,1,6,0.129407,
+economic,1,4,0.067514,
+economical,1,4,0.13004,
+edible,1,8,0.233929,
+environmental,1,11,0.237071,
+exotic,1,4,0.124294,
+expensive,1,3,0.101064,
+heritage,1,8,0.17407,
+immediately,1,4,0.13004,
+insect,1,18,0.308763***,
+nutritional,1,6,0.124294,
+protein,1,18,0.302563,
+religion,1,3,0.098523,
+tradition,1,17,0.283862,
+traditional,1,7,0.1469,
+vegetari,1,5,0.156148,

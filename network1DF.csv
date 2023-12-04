@@ -1,0 +1,131 @@
+Node,Layer,Interlayer Centrality,Eigenvector Centrality,Connections
+accompanied,0,18,0.114098,
+accompany,0,14,0.094669,
+apple,0,11,0.064082,"Nodo apple, Layer 1"
+arepa,0,35,0.170867,
+avocado,0,11,0.063859,"Nodo avocado, Layer 1"
+banana,0,17,0.097904,"Nodo banana, Layer 1"
+bean,0,19,0.1142,"Nodo bean, Layer 1"
+beef,0,36,0.169684,"Nodo beef, Layer 1"
+beetroot,0,16,0.113558,
+blackberry,0,10,0.073336,
+blueberry,0,7,0.052529,
+bread,0,39,0.175154,"Nodo bread, Layer 1"
+burger,0,8,0.058979,
+carrot,0,11,0.06481,"Nodo carrot, Layer 1"
+cereal,0,32,0.156125,
+cheese,0,36,0.174492,"Nodo cheese, Layer 1"
+chicken,0,47,0.204985*,"Nodo chicken, Layer 1"
+chocolate,0,31,0.138985,"Nodo chocolate, Layer 1"
+chorizo,0,12,0.080231,
+coffee,0,36,0.171152,"Nodo coffee, Layer 1"
+combination,0,12,0.086748,
+egg,0,30,0.132282,"Nodo egg, Layer 1"
+empanadas,0,12,0.064014,"Nodo empanadas, Layer 1"
+fish,0,42,0.187758,"Nodo fish, Layer 1"
+fried,0,18,0.096709,"Nodo fried, Layer 1"
+fruit,0,40,0.191185***,"Nodo fruit, Layer 1"
+grilled,0,15,0.103812,
+healthy,0,23,0.136276,
+homemade,0,14,0.074023,
+kiwi,0,11,0.078738,
+lemon,0,12,0.067807,"Nodo lemon, Layer 1"
+lentil,0,17,0.101292,"Nodo lentil, Layer 1"
+lettuce,0,14,0.081463,"Nodo lettuce, Layer 1"
+milk,0,13,0.075244,"Nodo milk, Layer 1"
+natural,0,9,0.063016,
+noncarbonated,0,12,0.085798,
+oatmeal,0,22,0.112809,"Nodo oatmeal, Layer 1"
+omelet,0,8,0.059181,
+orange,0,12,0.069036,"Nodo orange, Layer 1"
+pandebono,0,10,0.07185,
+papaya,0,17,0.102056,"Nodo papaya, Layer 1"
+pastry,0,24,0.129964,"Nodo pastry, Layer 1"
+pizza,0,15,0.101158,
+plantain,0,34,0.159915,"Nodo plantain, Layer 1"
+pork,0,32,0.17737,"Nodo pork, Layer 1"
+potato,0,39,0.181778,"Nodo potato, Layer 1"
+prefer,0,24,0.136593,
+product,0,12,0.086109,
+protein,0,24,0.123119,
+pumpkin,0,15,0.109158,
+rice,0,42,0.203348**,"Nodo rice, Layer 1"
+roll,0,16,0.105547,
+rotates,0,11,0.078838,
+salad,0,42,0.184622,"Nodo salad, Layer 1"
+sandwich,0,29,0.147033,"Nodo sandwich, Layer 1"
+snack,0,37,0.169417,
+sou,0,11,0.078327,
+soup,0,27,0.138372,
+source,0,24,0.140834,
+spinach,0,17,0.108269,"Nodo spinach, Layer 1"
+stew,0,19,0.126697,
+strawberry,0,16,0.101737,
+tomato,0,10,0.057791,"Nodo tomato, Layer 1"
+tuna,0,17,0.108552,
+vegetable,0,34,0.166852,"Nodo vegetable, Layer 1"
+watermelon,0,11,0.080303,
+yucca,0,11,0.073919,
+ajiaco,1,10,0.062141,
+almojábana,1,14,0.083185,
+almond,1,31,0.155396,
+apple,1,12,0.062971,
+arepas,1,28,0.152103,
+avocado,1,24,0.128447,
+balanced,1,10,0.062024,
+banana,1,21,0.116162,
+bean,1,34,0.181867*,
+beef,1,33,0.170537,
+biscuit,1,18,0.110169,
+bread,1,35,0.165335,
+broccoli,1,24,0.127173,
+cake,1,19,0.114302,
+carbohydrate,1,29,0.139568,
+carrot,1,19,0.104444,
+changua,1,13,0.08131,
+cheese,1,36,0.166292,
+cherry,1,20,0.119293,
+chicken,1,33,0.145637,
+chip,1,23,0.134735,
+chocolate,1,28,0.122984,
+chocorramo,1,15,0.092935,
+coffee,1,35,0.170996***,
+cucumber,1,29,0.159461,
+dessert,1,17,0.103035,
+diet,1,30,0.146896,
+egg,1,32,0.14671,
+empanadas,1,13,0.067588,
+fish,1,31,0.151737,
+fried,1,28,0.143036,
+fruit,1,30,0.130874,
+hamburger,1,13,0.080214,
+legume,1,8,0.050049,
+lemon,1,21,0.114084,
+lentil,1,17,0.087573,
+lettuce,1,34,0.172139**,
+mango,1,20,0.112786,
+meat,1,30,0.151264,
+melon,1,25,0.137966,
+milk,1,25,0.125733,
+oatmeal,1,20,0.102269,
+orange,1,18,0.091809,
+papaya,1,27,0.138042,
+pasta,1,13,0.078888,
+pastry,1,25,0.136517,
+peanut,1,30,0.147671,
+plantain,1,31,0.142847,
+plantbased,1,11,0.067501,
+pork,1,24,0.12363,
+potato,1,31,0.140201,
+rice,1,35,0.164696,
+salad,1,37,0.164833,
+sancocho,1,7,0.044451,
+sandwich,1,25,0.134815,
+spinach,1,28,0.130841,
+tangerine,1,15,0.08646,
+tomato,1,27,0.14161,
+vegetable,1,34,0.167893,
+water,1,15,0.086134,
+yogurt,1,28,0.14098,
+yuca,1,12,0.073054,
+zucchini,1,10,0.05968,

@@ -1,0 +1,77 @@
+Node,Layer,Interlayer Centrality,Eigenvector Centrality,Connections
+barbecue,0,9,0.302707**,
+birthday,0,9,0.217251,"connects with node birthday, in Layer 1"
+child,0,5,0.162157,
+childhood,0,9,0.216061,"connects with node childhood, in Layer 1"
+connection,0,5,0.151914,
+countryside,0,6,0.196704,
+cultural,0,8,0.186751,"connects with node cultural, in Layer 1"
+emotion,0,11,0.290555***,"connects with node emotion, in Layer 1"
+emotional,0,6,0.234828,
+familiarity,0,5,0.177719,
+family,0,9,0.224096,"connects with node family, in Layer 1"
+grandmother,0,14,0.363958*,"connects with node grandmother, in Layer 1"
+grilled,0,5,0.141933,
+love,0,10,0.254627,"connects with node love, in Layer 1"
+memory,0,9,0.242643,"connects with node memory, in Layer 1"
+nostalgia,0,5,0.167697,
+reminds,0,7,0.236103,
+special,0,7,0.203997,
+sweet,0,10,0.239549,"connects with node sweet, in Layer 1"
+texture,0,5,0.104831,"connects with node texture, in Layer 1"
+adventure,1,3,0.193505,
+birthday,1,4,0.102037,
+childhood,1,11,0.366492**,"connects with node childhood, in Layer 2"
+cultural,1,9,0.34694***,
+emotion,1,6,0.216255,
+family,1,6,0.070361,"connects with node family, in Layer 2"
+grandmother,1,4,0.052837,
+identity,1,5,0.254839,
+insect,1,8,0.338165,
+insectbased,1,9,0.394803*,
+love,1,7,0.274085,
+memory,1,9,0.229847,"connects with node memory, in Layer 2"
+smell,1,3,0.069485,"connects with node smell, in Layer 2"
+sweet,1,8,0.305003,
+texture,1,7,0.153651,"connects with node texture, in Layer 2"
+traditional,1,5,0.241594,
+trip,1,0,0.0,
+childhood,2,12,0.292542,
+earthy,2,7,0.237095,
+ecological,2,1,0.038949,
+family,2,6,0.127816,
+forced,2,16,0.352404***,
+hate,2,2,0.08263,
+liver,2,8,0.228358,
+mashed,2,3,0.121579,
+memory,2,5,0.121579,
+mushroom,2,17,0.368868**,
+mushy,2,3,0.121579,
+overcooked,2,2,0.08263,
+peculiar,2,3,0.121579,
+school,2,9,0.267476,
+slimy,2,6,0.211857,
+slippery,2,3,0.121579,
+smell,2,10,0.208713,"connects with node smell, in Layer 3"
+soft,2,9,0.256802,
+squirm,2,3,0.121579,
+strong,2,9,0.237095,"connects with node strong, in Layer 3"
+texture,2,22,0.378758*,"connects with node texture, in Layer 3"
+aversion,3,7,0.264146,
+child,3,11,0.364569*,
+condiment,3,1,0.039506,
+creature,3,4,0.145166,
+diet,3,6,0.230231,
+experience,3,9,0.280286,
+food,3,11,0.349904**,
+grandmother,3,1,0.039506,
+meat,3,5,0.195703,
+negative,3,1,0.039506,
+pumpkin,3,7,0.237685,
+sickness,3,1,0.039506,
+smell,3,9,0.264146,
+strong,3,8,0.235209,
+sweet,3,1,0.039506,
+taste,3,14,0.324493,
+texture,3,12,0.334149***,
+vegetable,3,8,0.278567,

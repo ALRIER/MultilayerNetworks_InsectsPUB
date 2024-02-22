@@ -1,395 +1,395 @@
-Exporter,Continent,Continent ID,Importer,Country ID,ISO 3,Trade Value,Year
-Colombia,Asia,as,United Arab Emirates,asare,are,16553,2018
-Colombia,Europe,eu,Austria,euaut,aut,227,2018
-Colombia,North America,na,United States,nausa,usa,15297,2018
-Colombia,Asia,as,United Arab Emirates,asare,are,12859,2019
-Colombia,Europe,eu,United Kingdom,eugbr,gbr,7236,2019
-Colombia,North America,na,United States,nausa,usa,62145,2019
-Colombia,Asia,as,United Arab Emirates,asare,are,9799,2020
-Colombia,Europe,eu,Germany,eudeu,deu,23722,2020
-Colombia,North America,na,United States,nausa,usa,3481,2020
-Colombia,Asia,as,India,asind,ind,304,2021
-Colombia,Asia,as,Japan,asjpn,jpn,1500,2021
-Colombia,Europe,eu,Germany,eudeu,deu,158423,2021
-Colombia,North America,na,Canada,nacan,can,1892,2021
-Angola,Africa,af,Democratic Republic of the Congo,afcod,cod,701,2021
-Argentina,Europe,eu,Austria,euaut,aut,184,2018
-Argentina,South America,sa,Uruguay,saury,ury,28321,2018
-Argentina,South America,sa,Uruguay,saury,ury,26931,2019
-Argentina,South America,sa,Uruguay,saury,ury,97856,2020
-Argentina,Africa,af,South Africa,afzaf,zaf,20,2021
-Argentina,South America,sa,Bolivia,sabol,bol,48708,2021
-Argentina,South America,sa,Chile,sachl,chl,19024,2021
-Argentina,South America,sa,Uruguay,saury,ury,91795,2021
-Australia,Asia,as,Hong Kong,ashkg,hkg,4793,2018
-Australia,Asia,as,Japan,asjpn,jpn,2163,2018
-Australia,Asia,as,Singapore,assgp,sgp,21,2018
-Australia,Europe,eu,Germany,eudeu,deu,880,2018
-Australia,North America,na,Canada,nacan,can,1351,2018
-Australia,Asia,as,China,aschn,chn,125,2019
-Australia,Asia,as,Japan,asjpn,jpn,2958,2019
-Australia,Asia,as,Thailand,astha,tha,293,2019
-Australia,Europe,eu,Switzerland,euche,che,19,2019
-Australia,North America,na,Canada,nacan,can,1,2019
-Australia,Asia,as,Bahrain,asbhr,bhr,10271,2020
-Australia,Asia,as,China,aschn,chn,1088,2020
-Australia,Asia,as,Japan,asjpn,jpn,14050,2020
-Australia,Asia,as,South Korea,askor,kor,24,2020
-Australia,Asia,as,Singapore,assgp,sgp,3,2020
-Australia,Europe,eu,Germany,eudeu,deu,2009,2020
-Australia,Europe,eu,Spain,euesp,esp,71,2020
-Australia,Europe,eu,France,eufra,fra,1638,2020
-Australia,Europe,eu,United Kingdom,eugbr,gbr,7566,2020
-Australia,North America,na,Canada,nacan,can,419,2020
-Australia,Oceania,oc,New Zealand,ocnzl,nzl,5472,2020
-Australia,Africa,af,South Africa,afzaf,zaf,49,2021
-Australia,Asia,as,Bahrain,asbhr,bhr,125542,2021
-Australia,Asia,as,China,aschn,chn,1181,2021
-Australia,Asia,as,Japan,asjpn,jpn,157171,2021
-Australia,Asia,as,South Korea,askor,kor,25,2021
-Australia,Asia,as,Singapore,assgp,sgp,238,2021
-Australia,Europe,eu,Austria,euaut,aut,20,2021
-Australia,Europe,eu,Switzerland,euche,che,1502,2021
-Australia,Europe,eu,Czechia,eucze,cze,529,2021
-Australia,Europe,eu,Germany,eudeu,deu,4711,2021
-Australia,Europe,eu,Spain,euesp,esp,75,2021
-Australia,Europe,eu,United Kingdom,eugbr,gbr,1502,2021
-Australia,Europe,eu,Russia,eurus,rus,3380,2021
-Barbados,North America,na,Mexico,namex,mex,5000,2019
-Benin,Europe,eu,Greece,eugrc,grc,237,2021
-Botswana,Africa,af,Namibia,afnam,nam,43,2019
-Botswana,Africa,af,South Africa,afzaf,zaf,8342,2021
-Brazil,Europe,eu,Germany,eudeu,deu,75,2018
-Brazil,Europe,eu,Malta,eumlt,mlt,215,2018
-Brazil,North America,na,Panama,napan,pan,22,2018
-Brazil,North America,na,United States,nausa,usa,80,2018
-Brazil,Oceania,oc,Marshall Islands,ocmhl,mhl,286,2018
-Brazil,Africa,af,Comoros,afcom,com,76,2019
-Brazil,Africa,af,Liberia,aflbr,lbr,510,2019
-Brazil,Asia,as,Hong Kong,ashkg,hkg,327,2019
-Brazil,Asia,as,South Korea,askor,kor,22,2019
-Brazil,Asia,as,Singapore,assgp,sgp,71,2019
-Brazil,Europe,eu,Germany,eudeu,deu,10,2019
-Brazil,Europe,eu,Greece,eugrc,grc,88,2019
-Brazil,Europe,eu,Malta,eumlt,mlt,415,2019
-Brazil,Europe,eu,Norway,eunor,nor,247,2019
-Brazil,Europe,eu,Portugal,euprt,prt,197,2019
-Brazil,North America,na,Bahamas,nabhs,bhs,286,2019
-Brazil,North America,na,Cayman Islands,nacym,cym,90,2019
-Brazil,North America,na,Panama,napan,pan,457,2019
-Brazil,Oceania,oc,Marshall Islands,ocmhl,mhl,640,2019
-Brazil,South America,sa,Argentina,saarg,arg,15,2019
-Brazil,South America,sa,Paraguay,sapry,pry,626,2019
-Brazil,Africa,af,Liberia,aflbr,lbr,771,2020
-Brazil,Africa,af,Mozambique,afmoz,moz,569,2020
-Brazil,Asia,as,China,aschn,chn,141,2020
-Brazil,Asia,as,Hong Kong,ashkg,hkg,328,2020
-Brazil,Europe,eu,Belgium,eubel,bel,39,2020
-Brazil,Europe,eu,Denmark,eudnk,dnk,45,2020
-Brazil,Europe,eu,United Kingdom,eugbr,gbr,83,2020
-Brazil,Europe,eu,Greece,eugrc,grc,22,2020
-Brazil,Europe,eu,Malta,eumlt,mlt,23,2020
-Brazil,Europe,eu,Netherlands,eunld,nld,24,2020
-Brazil,Europe,eu,Norway,eunor,nor,23,2020
-Brazil,North America,na,Bahamas,nabhs,bhs,174,2020
-Brazil,North America,na,Panama,napan,pan,114,2020
-Brazil,Oceania,oc,Marshall Islands,ocmhl,mhl,26,2020
-Brazil,South America,sa,Argentina,saarg,arg,136,2020
-Brazil,South America,sa,Paraguay,sapry,pry,8588,2020
-Brazil,Africa,af,Liberia,aflbr,lbr,36,2021
-Brazil,Asia,as,China,aschn,chn,4149,2021
-Brazil,Asia,as,Hong Kong,ashkg,hkg,24,2021
-Brazil,Europe,eu,Germany,eudeu,deu,481,2021
-Brazil,Europe,eu,United Kingdom,eugbr,gbr,81,2021
-Brazil,Europe,eu,Norway,eunor,nor,24,2021
-Brazil,Oceania,oc,Marshall Islands,ocmhl,mhl,44,2021
-Canada,Asia,as,Israel,asisr,isr,2000,2018
-Canada,Asia,as,South Korea,askor,kor,127,2018
-Canada,Europe,eu,Switzerland,euche,che,95,2018
-Canada,Europe,eu,Czechia,eucze,cze,22792,2018
-Canada,Europe,eu,Germany,eudeu,deu,723,2018
-Canada,Europe,eu,United Kingdom,eugbr,gbr,212314,2018
-Canada,Europe,eu,Netherlands,eunld,nld,47567,2018
-Canada,Europe,eu,Russia,eurus,rus,3993,2018
-Canada,North America,na,Costa Rica,nacri,cri,106556,2018
-Canada,North America,na,United States,nausa,usa,6065354,2018
-Canada,Asia,as,Indonesia,asidn,idn,983,2019
-Canada,Asia,as,Japan,asjpn,jpn,2081,2019
-Canada,Asia,as,South Korea,askor,kor,4092,2019
-Canada,Asia,as,Singapore,assgp,sgp,6,2019
-Canada,Europe,eu,Germany,eudeu,deu,774,2019
-Canada,Europe,eu,France,eufra,fra,7347,2019
-Canada,Europe,eu,United Kingdom,eugbr,gbr,54122,2019
-Canada,Europe,eu,Netherlands,eunld,nld,39720,2019
-Canada,Europe,eu,Russia,eurus,rus,18248,2019
-Canada,North America,na,Costa Rica,nacri,cri,47654,2019
-Canada,North America,na,United States,nausa,usa,3891650,2019
-Canada,Oceania,oc,New Zealand,ocnzl,nzl,10813,2019
-Canada,Asia,as,South Korea,askor,kor,38,2020
-Canada,Asia,as,Singapore,assgp,sgp,7,2020
-Canada,Europe,eu,Austria,euaut,aut,70,2020
-Canada,Europe,eu,Belgium,eubel,bel,177,2020
-Canada,Europe,eu,Switzerland,euche,che,29,2020
-Canada,Europe,eu,Germany,eudeu,deu,81,2020
-Canada,Europe,eu,France,eufra,fra,262,2020
-Canada,Europe,eu,United Kingdom,eugbr,gbr,4731,2020
-Canada,Europe,eu,Netherlands,eunld,nld,7082,2020
-Canada,Europe,eu,Russia,eurus,rus,119476,2020
-Canada,North America,na,Costa Rica,nacri,cri,681,2020
-Canada,North America,na,Panama,napan,pan,696,2020
-Canada,North America,na,United States,nausa,usa,4562304,2020
-Canada,Oceania,oc,New Zealand,ocnzl,nzl,14570,2020
-Canada,Asia,as,China,aschn,chn,711,2021
-Canada,Europe,eu,Belgium,eubel,bel,142,2021
-Canada,Europe,eu,Czechia,eucze,cze,132,2021
-Canada,Europe,eu,France,eufra,fra,414,2021
-Canada,Europe,eu,United Kingdom,eugbr,gbr,9640,2021
-Canada,Europe,eu,Netherlands,eunld,nld,10594,2021
-Canada,Europe,eu,Russia,eurus,rus,92085,2021
-Canada,North America,na,Panama,napan,pan,696,2021
-Canada,North America,na,United States,nausa,usa,9307014,2021
-Chile,Europe,eu,Germany,eudeu,deu,6475,2018
-Chile,Europe,eu,Spain,euesp,esp,140551,2018
-Chile,North America,na,Canada,nacan,can,3412,2018
-Chile,Europe,eu,Germany,eudeu,deu,137,2019
-Chile,Europe,eu,Spain,euesp,esp,190318,2019
-Chile,Europe,eu,France,eufra,fra,22312,2019
-Chile,North America,na,Canada,nacan,can,17773,2019
-Chile,Europe,eu,Belgium,eubel,bel,138,2021
-Chile,Europe,eu,France,eufra,fra,167,2021
-Congo,North America,na,Canada,nacan,can,497,2018
-Congo,Europe,eu,Germany,eudeu,deu,150,2019
-Congo,North America,na,Canada,nacan,can,30,2019
-Congo,North America,na,Canada,nacan,can,1118,2020
-Congo,North America,na,Canada,nacan,can,1237,2021
-Ecuador,Europe,eu,Switzerland,euche,che,297,2018
-Ecuador,Europe,eu,Spain,euesp,esp,119,2018
-Ecuador,Europe,eu,United Kingdom,eugbr,gbr,105316,2018
-Ecuador,Europe,eu,Netherlands,eunld,nld,36824,2018
-Ecuador,North America,na,United States,nausa,usa,295486,2018
-Ecuador,Europe,eu,United Kingdom,eugbr,gbr,59453,2019
-Ecuador,Europe,eu,Netherlands,eunld,nld,23777,2019
-Ecuador,North America,na,Canada,nacan,can,3855,2019
-Ecuador,North America,na,Panama,napan,pan,773,2019
-Ecuador,North America,na,United States,nausa,usa,296352,2019
-Ecuador,Europe,eu,United Kingdom,eugbr,gbr,63884,2020
-Ecuador,Europe,eu,Netherlands,eunld,nld,30476,2020
-Ecuador,North America,na,Canada,nacan,can,1312,2020
-Ecuador,North America,na,United States,nausa,usa,188478,2020
-Ecuador,Europe,eu,United Kingdom,eugbr,gbr,77931,2021
-Ecuador,Europe,eu,Netherlands,eunld,nld,142089,2021
-Ecuador,North America,na,United States,nausa,usa,274331,2021
-Ethiopia,Asia,as,United Arab Emirates,asare,are,20702,2021
-Ghana,Africa,af,Mozambique,afmoz,moz,98,2018
-Ghana,Europe,eu,Switzerland,euche,che,29,2019
-Ghana,Europe,eu,Poland,eupol,pol,290,2019
-Ghana,Africa,af,Kenya,afken,ken,21,2020
-Ghana,North America,na,United States,nausa,usa,4048,2020
-Ghana,Europe,eu,United Kingdom,eugbr,gbr,2241,2021
-Ghana,Europe,eu,Hungary,euhun,hun,2349,2021
-Guyana,Asia,as,Japan,asjpn,jpn,20,2019
-Guyana,Europe,eu,Russia,eurus,rus,750,2019
-Guyana,North America,na,United States,nausa,usa,1332,2019
-Guyana,North America,na,United States,nausa,usa,2308,2020
-Guyana,Europe,eu,Germany,eudeu,deu,50,2021
-Guyana,North America,na,United States,nausa,usa,2402,2021
-Honduras,North America,na,Panama,napan,pan,906,2019
-Kenya,Africa,af,Uganda,afuga,uga,196249,2018
-Kenya,Africa,af,South Africa,afzaf,zaf,297422,2018
-Kenya,Africa,af,Zambia,afzmb,zmb,8757,2018
-Kenya,Europe,eu,Austria,euaut,aut,170,2018
-Kenya,Europe,eu,United Kingdom,eugbr,gbr,810546,2018
-Kenya,Europe,eu,Italy,euita,ita,220870,2018
-Kenya,Europe,eu,Netherlands,eunld,nld,250671,2018
-Kenya,Europe,eu,Russia,eurus,rus,1040,2018
-Kenya,North America,na,Canada,nacan,can,47224,2018
-Kenya,North America,na,United States,nausa,usa,627955,2018
-Kenya,Africa,af,Ethiopia,afeth,eth,2336513,2019
-Kenya,Africa,af,Uganda,afuga,uga,282180,2019
-Kenya,Africa,af,South Africa,afzaf,zaf,350963,2019
-Kenya,Africa,af,Zimbabwe,afzwe,zwe,241231,2019
-Kenya,Europe,eu,Belgium,eubel,bel,77013,2019
-Kenya,Europe,eu,United Kingdom,eugbr,gbr,519347,2019
-Kenya,Europe,eu,Italy,euita,ita,283388,2019
-Kenya,Europe,eu,Netherlands,eunld,nld,152975,2019
-Kenya,Europe,eu,Russia,eurus,rus,208,2019
-Kenya,North America,na,Canada,nacan,can,274213,2019
-Kenya,North America,na,United States,nausa,usa,284010,2019
-Kenya,Africa,af,Ethiopia,afeth,eth,2120490,2020
-Kenya,Africa,af,Uganda,afuga,uga,28903,2020
-Kenya,Africa,af,South Africa,afzaf,zaf,1453088,2020
-Kenya,Africa,af,Zimbabwe,afzwe,zwe,282286,2020
-Kenya,Europe,eu,Belgium,eubel,bel,1428656,2020
-Kenya,Europe,eu,France,eufra,fra,143492,2020
-Kenya,Europe,eu,United Kingdom,eugbr,gbr,1640781,2020
-Kenya,Europe,eu,Italy,euita,ita,176249,2020
-Kenya,Europe,eu,Netherlands,eunld,nld,190340,2020
-Kenya,North America,na,Canada,nacan,can,124700,2020
-Kenya,North America,na,United States,nausa,usa,259903,2020
-Kenya,Africa,af,Democratic Republic of the Congo,afcod,cod,177456,2021
-Kenya,Africa,af,Ethiopia,afeth,eth,3150848,2021
-Kenya,Africa,af,Malawi,afmwi,mwi,1116,2021
-Kenya,Africa,af,Uganda,afuga,uga,3519,2021
-Kenya,Africa,af,South Africa,afzaf,zaf,278705,2021
-Kenya,Africa,af,Zimbabwe,afzwe,zwe,209855,2021
-Kenya,Asia,as,Turkey,astur,tur,912,2021
-Kenya,Europe,eu,Belgium,eubel,bel,2054285,2021
-Kenya,Europe,eu,Denmark,eudnk,dnk,3087,2021
-Kenya,Europe,eu,Spain,euesp,esp,49585,2021
-Kenya,Europe,eu,Finland,eufin,fin,5,2021
-Kenya,Europe,eu,France,eufra,fra,7205,2021
-Kenya,Europe,eu,United Kingdom,eugbr,gbr,1705942,2021
-Kenya,Europe,eu,Italy,euita,ita,289469,2021
-Kenya,Europe,eu,Netherlands,eunld,nld,1169801,2021
-Kenya,North America,na,Canada,nacan,can,261804,2021
-Kenya,North America,na,United States,nausa,usa,685418,2021
-Madagascar,Asia,as,Vietnam,asvnm,vnm,11409,2018
-Madagascar,Europe,eu,Czechia,eucze,cze,462,2018
-Madagascar,Europe,eu,Spain,euesp,esp,516,2018
-Madagascar,Europe,eu,France,eufra,fra,5324,2018
-Madagascar,Europe,eu,Hungary,euhun,hun,450,2018
-Madagascar,Asia,as,Japan,asjpn,jpn,526,2019
-Madagascar,Europe,eu,France,eufra,fra,49931,2019
-Madagascar,Europe,eu,Netherlands,eunld,nld,31532,2019
-Madagascar,Europe,eu,Spain,euesp,esp,965,2020
-Malawi,Africa,af,Morocco,afmar,mar,126,2019
-Mauritius,Europe,eu,Austria,euaut,aut,43,2021
-Mexico,North America,na,Canada,nacan,can,1358006,2018
-Mexico,North America,na,Costa Rica,nacri,cri,43478,2018
-Mexico,North America,na,Guatemala,nagtm,gtm,1709,2018
-Mexico,North America,na,Honduras,nahnd,hnd,625,2018
-Mexico,North America,na,United States,nausa,usa,952880,2018
-Mexico,Europe,eu,Netherlands,eunld,nld,10716,2019
-Mexico,North America,na,Canada,nacan,can,3629438,2019
-Mexico,North America,na,Costa Rica,nacri,cri,47352,2019
-Mexico,North America,na,Dominican Republic,nadom,dom,9921,2019
-Mexico,North America,na,United States,nausa,usa,1218055,2019
-Mexico,Europe,eu,Germany,eudeu,deu,1692,2020
-Mexico,Europe,eu,Netherlands,eunld,nld,6699,2020
-Mexico,North America,na,Canada,nacan,can,5196835,2020
-Mexico,North America,na,Costa Rica,nacri,cri,34624,2020
-Mexico,North America,na,United States,nausa,usa,951341,2020
-Mexico,Europe,eu,Belgium,eubel,bel,37,2021
-Mexico,Europe,eu,Netherlands,eunld,nld,156421,2021
-Mexico,North America,na,Canada,nacan,can,3317204,2021
-Mexico,North America,na,Costa Rica,nacri,cri,37258,2021
-Mexico,North America,na,United States,nausa,usa,1139572,2021
-Mozambique,Africa,af,South Africa,afzaf,zaf,1,2018
-Mozambique,Europe,eu,France,eufra,fra,485,2021
-Namibia,Africa,af,Botswana,afbwa,bwa,10,2018
-New Zealand,Europe,eu,Belgium,eubel,bel,245,2021
-Nicaragua,Europe,eu,Spain,euesp,esp,3498,2018
-Nicaragua,Europe,eu,Netherlands,eunld,nld,474,2018
-Nicaragua,North America,na,Canada,nacan,can,895,2018
-Nicaragua,North America,na,United States,nausa,usa,37000,2018
-Nicaragua,Asia,as,Japan,asjpn,jpn,580,2019
-Nicaragua,Europe,eu,Germany,eudeu,deu,400,2019
-Nicaragua,Europe,eu,Spain,euesp,esp,4300,2019
-Nicaragua,Europe,eu,United Kingdom,eugbr,gbr,1675,2019
-Nicaragua,Europe,eu,Netherlands,eunld,nld,206,2019
-Nicaragua,North America,na,Canada,nacan,can,1163,2019
-Nicaragua,North America,na,United States,nausa,usa,48464,2019
-Nicaragua,Asia,as,Japan,asjpn,jpn,1125,2020
-Nicaragua,Europe,eu,Czechia,eucze,cze,140,2020
-Nicaragua,Europe,eu,Spain,euesp,esp,2630,2020
-Nicaragua,Europe,eu,United Kingdom,eugbr,gbr,1650,2020
-Nicaragua,Europe,eu,Netherlands,eunld,nld,1020,2020
-Nicaragua,North America,na,Canada,nacan,can,1762,2020
-Nicaragua,North America,na,United States,nausa,usa,57455,2020
-Nicaragua,Asia,as,Japan,asjpn,jpn,1435,2021
-Nicaragua,Asia,as,Chinese Taipei,asxxb,,390,2021
-Nicaragua,Europe,eu,Germany,eudeu,deu,320,2021
-Nicaragua,Europe,eu,Spain,euesp,esp,4500,2021
-Nicaragua,Europe,eu,United Kingdom,eugbr,gbr,1084,2021
-Nicaragua,Europe,eu,Netherlands,eunld,nld,247,2021
-Nicaragua,North America,na,Canada,nacan,can,3000,2021
-Nicaragua,North America,na,Guatemala,nagtm,gtm,763,2021
-Nicaragua,North America,na,United States,nausa,usa,72450,2021
-Nigeria,Europe,eu,Germany,eudeu,deu,23950,2018
-Nigeria,Europe,eu,Germany,eudeu,deu,2357,2019
-Nigeria,Europe,eu,Germany,eudeu,deu,5271,2020
-Nigeria,Europe,eu,Germany,eudeu,deu,5639,2021
-Nigeria,Europe,eu,United Kingdom,eugbr,gbr,13988,2021
-Paraguay,North America,na,United States,nausa,usa,10,2021
-Paraguay,Oceania,oc,Australia,ocaus,aus,10,2021
-Peru,Asia,as,Japan,asjpn,jpn,5331,2018
-Peru,Europe,eu,Germany,eudeu,deu,606,2018
-Peru,Asia,as,Israel,asisr,isr,2000,2019
-Peru,Europe,eu,Germany,eudeu,deu,597,2019
-Peru,Asia,as,Japan,asjpn,jpn,3194,2020
-Peru,Europe,eu,Germany,eudeu,deu,2516,2020
-Peru,Asia,as,Hong Kong,ashkg,hkg,2550,2021
-Peru,Asia,as,Japan,asjpn,jpn,13412,2021
-Peru,Europe,eu,Germany,eudeu,deu,2489,2021
-Senegal,Europe,eu,Netherlands,eunld,nld,118,2021
-South Africa,Africa,af,Botswana,afbwa,bwa,3791,2018
-South Africa,Africa,af,Morocco,afmar,mar,112,2018
-South Africa,Africa,af,Namibia,afnam,nam,19,2018
-South Africa,Africa,af,Zimbabwe,afzwe,zwe,997,2018
-South Africa,Europe,eu,Spain,euesp,esp,142596,2018
-South Africa,Europe,eu,Netherlands,eunld,nld,24857,2018
-South Africa,Africa,af,Angola,afago,ago,3136,2019
-South Africa,Africa,af,Botswana,afbwa,bwa,41234,2019
-South Africa,Africa,af,Lesotho,aflso,lso,1522,2019
-South Africa,Africa,af,Morocco,afmar,mar,233,2019
-South Africa,Africa,af,Madagascar,afmdg,mdg,346,2019
-South Africa,Africa,af,Zambia,afzmb,zmb,41638,2019
-South Africa,Africa,af,Zimbabwe,afzwe,zwe,1682,2019
-South Africa,Asia,as,Vietnam,asvnm,vnm,79004,2019
-South Africa,Europe,eu,Austria,euaut,aut,92,2019
-South Africa,Europe,eu,Denmark,eudnk,dnk,7471,2019
-South Africa,Europe,eu,Spain,euesp,esp,29561,2019
-South Africa,Europe,eu,Netherlands,eunld,nld,10610,2019
-South Africa,North America,na,United States,nausa,usa,11134,2019
-South Africa,Oceania,oc,Australia,ocaus,aus,3,2019
-South Africa,Africa,af,Benin,afben,ben,6,2020
-South Africa,Africa,af,Botswana,afbwa,bwa,3403,2020
-South Africa,Africa,af,Kenya,afken,ken,1,2020
-South Africa,Africa,af,Lesotho,aflso,lso,866,2020
-South Africa,Africa,af,Morocco,afmar,mar,81,2020
-South Africa,Africa,af,Tanzania,aftza,tza,201,2020
-South Africa,Africa,af,Zambia,afzmb,zmb,18902,2020
-South Africa,Africa,af,Zimbabwe,afzwe,zwe,7674,2020
-South Africa,Asia,as,Israel,asisr,isr,851,2020
-South Africa,Asia,as,Japan,asjpn,jpn,1539,2020
-South Africa,Europe,eu,Czechia,eucze,cze,22,2020
-South Africa,Europe,eu,Germany,eudeu,deu,68920,2020
-South Africa,Europe,eu,Spain,euesp,esp,225414,2020
-South Africa,Europe,eu,United Kingdom,eugbr,gbr,1,2020
-South Africa,Europe,eu,Sweden,euswe,swe,109,2020
-South Africa,North America,na,United States,nausa,usa,4704,2020
-South Africa,Africa,af,Botswana,afbwa,bwa,250,2021
-South Africa,Africa,af,Lesotho,aflso,lso,7865,2021
-South Africa,Africa,af,Morocco,afmar,mar,60,2021
-South Africa,Africa,af,Zambia,afzmb,zmb,47337,2021
-South Africa,Africa,af,Zimbabwe,afzwe,zwe,22845,2021
-South Africa,Asia,as,Israel,asisr,isr,12320,2021
-South Africa,Asia,as,Japan,asjpn,jpn,3253,2021
-South Africa,Europe,eu,Switzerland,euche,che,153,2021
-South Africa,Europe,eu,Germany,eudeu,deu,81299,2021
-South Africa,Europe,eu,Spain,euesp,esp,390981,2021
-South Africa,Europe,eu,France,eufra,fra,81,2021
-South Africa,Europe,eu,United Kingdom,eugbr,gbr,11758,2021
-South Africa,Europe,eu,Netherlands,eunld,nld,7799,2021
-South Africa,Europe,eu,Portugal,euprt,prt,1,2021
-South Africa,Europe,eu,Sweden,euswe,swe,700,2021
-South Africa,North America,na,Canada,nacan,can,17,2021
-South Africa,North America,na,United States,nausa,usa,17865,2021
-Suriname,Europe,eu,Netherlands,eunld,nld,50132,2018
-Suriname,Europe,eu,Netherlands,eunld,nld,45978,2019
-Suriname,Europe,eu,Netherlands,eunld,nld,41101,2020
-Suriname,Europe,eu,Netherlands,eunld,nld,39715,2021
-Togo,Europe,eu,Belgium,eubel,bel,1,2018
-Togo,Europe,eu,Germany,eudeu,deu,791,2018
-Togo,Europe,eu,France,eufra,fra,2224,2018
-Togo,South America,sa,Argentina,saarg,arg,220,2018
-Togo,Europe,eu,Belgium,eubel,bel,61,2019
-Togo,Europe,eu,Czechia,eucze,cze,2418,2019
-Togo,Europe,eu,France,eufra,fra,1514,2019
-Togo,Europe,eu,United Kingdom,eugbr,gbr,1583,2019
-Togo,Europe,eu,France,eufra,fra,8074,2020
-Togo,Europe,eu,Belgium,eubel,bel,5,2021
-Togo,Europe,eu,France,eufra,fra,4513,2021
-Togo,Europe,eu,United Kingdom,eugbr,gbr,3493,2021
-Zambia,Africa,af,Namibia,afnam,nam,4018,2021
-Zambia,Africa,af,South Africa,afzaf,zaf,1617,2021
+Exporter,ExporterCode,Continent,Continent ID,Importer,Country ID,ImporterCode,TradeValue,Year
+Colombia,COL,Asia,as,United Arab Emirates,asare,ARE,16553,2018
+Colombia,COL,Europe,eu,Austria,euaut,AUT,227,2018
+Colombia,COL,North America,na,United States,nausa,USA,15297,2018
+Colombia,COL,Asia,as,United Arab Emirates,asare,ARE,12859,2019
+Colombia,COL,Europe,eu,United Kingdom,eugbr,GBR,7236,2019
+Colombia,COL,North America,na,United States,nausa,USA,62145,2019
+Colombia,COL,Asia,as,United Arab Emirates,asare,ARE,9799,2020
+Colombia,COL,Europe,eu,Germany,eudeu,DEU,23722,2020
+Colombia,COL,North America,na,United States,nausa,USA,3481,2020
+Colombia,COL,Asia,as,India,asind,IND,304,2021
+Colombia,COL,Asia,as,Japan,asjpn,JPN,1500,2021
+Colombia,COL,Europe,eu,Germany,eudeu,DEU,158423,2021
+Colombia,COL,North America,na,Canada,nacan,CAN,1892,2021
+Angola,AGO,Africa,af,Democratic Republic of the Congo,afcod,COD,701,2021
+Argentina,ARG,Europe,eu,Austria,euaut,AUT,184,2018
+Argentina,ARG,South America,sa,Uruguay,saury,URY,28321,2018
+Argentina,ARG,South America,sa,Uruguay,saury,URY,26931,2019
+Argentina,ARG,South America,sa,Uruguay,saury,URY,97856,2020
+Argentina,ARG,Africa,af,South Africa,afzaf,ZAF,20,2021
+Argentina,ARG,South America,sa,Bolivia,sabol,BOL,48708,2021
+Argentina,ARG,South America,sa,Chile,sachl,CHL,19024,2021
+Argentina,ARG,South America,sa,Uruguay,saury,URY,91795,2021
+Australia,AUS,Asia,as,Hong Kong,ashkg,HKG,4793,2018
+Australia,AUS,Asia,as,Japan,asjpn,JPN,2163,2018
+Australia,AUS,Asia,as,Singapore,assgp,SGP,21,2018
+Australia,AUS,Europe,eu,Germany,eudeu,DEU,880,2018
+Australia,AUS,North America,na,Canada,nacan,CAN,1351,2018
+Australia,AUS,Asia,as,China,aschn,CHN,125,2019
+Australia,AUS,Asia,as,Japan,asjpn,JPN,2958,2019
+Australia,AUS,Asia,as,Thailand,astha,THA,293,2019
+Australia,AUS,Europe,eu,Switzerland,euche,CHE,19,2019
+Australia,AUS,North America,na,Canada,nacan,CAN,1,2019
+Australia,AUS,Asia,as,Bahrain,asbhr,BHR,10271,2020
+Australia,AUS,Asia,as,China,aschn,CHN,1088,2020
+Australia,AUS,Asia,as,Japan,asjpn,JPN,14050,2020
+Australia,AUS,Asia,as,South Korea,askor,KOR,24,2020
+Australia,AUS,Asia,as,Singapore,assgp,SGP,3,2020
+Australia,AUS,Europe,eu,Germany,eudeu,DEU,2009,2020
+Australia,AUS,Europe,eu,Spain,euesp,ESP,71,2020
+Australia,AUS,Europe,eu,France,eufra,FRA,1638,2020
+Australia,AUS,Europe,eu,United Kingdom,eugbr,GBR,7566,2020
+Australia,AUS,North America,na,Canada,nacan,CAN,419,2020
+Australia,AUS,Oceania,oc,New Zealand,ocnzl,NZL,5472,2020
+Australia,AUS,Africa,af,South Africa,afzaf,ZAF,49,2021
+Australia,AUS,Asia,as,Bahrain,asbhr,BHR,125542,2021
+Australia,AUS,Asia,as,China,aschn,CHN,1181,2021
+Australia,AUS,Asia,as,Japan,asjpn,JPN,157171,2021
+Australia,AUS,Asia,as,South Korea,askor,KOR,25,2021
+Australia,AUS,Asia,as,Singapore,assgp,SGP,238,2021
+Australia,AUS,Europe,eu,Austria,euaut,AUT,20,2021
+Australia,AUS,Europe,eu,Switzerland,euche,CHE,1502,2021
+Australia,AUS,Europe,eu,Czechia,eucze,CZE,529,2021
+Australia,AUS,Europe,eu,Germany,eudeu,DEU,4711,2021
+Australia,AUS,Europe,eu,Spain,euesp,ESP,75,2021
+Australia,AUS,Europe,eu,United Kingdom,eugbr,GBR,1502,2021
+Australia,AUS,Europe,eu,Russia,eurus,RUS,3380,2021
+Barbados,BRB,North America,na,Mexico,namex,MEX,5000,2019
+Benin,BEN,Europe,eu,Greece,eugrc,GRC,237,2021
+Botswana,BWA,Africa,af,Namibia,afnam,NAM,43,2019
+Botswana,BWA,Africa,af,South Africa,afzaf,ZAF,8342,2021
+Brazil,BRA,Europe,eu,Germany,eudeu,DEU,75,2018
+Brazil,BRA,Europe,eu,Malta,eumlt,MLT,215,2018
+Brazil,BRA,North America,na,Panama,napan,PAN,22,2018
+Brazil,BRA,North America,na,United States,nausa,USA,80,2018
+Brazil,BRA,Oceania,oc,Marshall Islands,ocmhl,MHL,286,2018
+Brazil,BRA,Africa,af,Comoros,afcom,COM,76,2019
+Brazil,BRA,Africa,af,Liberia,aflbr,LBR,510,2019
+Brazil,BRA,Asia,as,Hong Kong,ashkg,HKG,327,2019
+Brazil,BRA,Asia,as,South Korea,askor,KOR,22,2019
+Brazil,BRA,Asia,as,Singapore,assgp,SGP,71,2019
+Brazil,BRA,Europe,eu,Germany,eudeu,DEU,10,2019
+Brazil,BRA,Europe,eu,Greece,eugrc,GRC,88,2019
+Brazil,BRA,Europe,eu,Malta,eumlt,MLT,415,2019
+Brazil,BRA,Europe,eu,Norway,eunor,NOR,247,2019
+Brazil,BRA,Europe,eu,Portugal,euprt,PRT,197,2019
+Brazil,BRA,North America,na,Bahamas,nabhs,BHS,286,2019
+Brazil,BRA,North America,na,Cayman Islands,nacym,CYM,90,2019
+Brazil,BRA,North America,na,Panama,napan,PAN,457,2019
+Brazil,BRA,Oceania,oc,Marshall Islands,ocmhl,MHL,640,2019
+Brazil,BRA,South America,sa,Argentina,saarg,ARG,15,2019
+Brazil,BRA,South America,sa,Paraguay,sapry,PRY,626,2019
+Brazil,BRA,Africa,af,Liberia,aflbr,LBR,771,2020
+Brazil,BRA,Africa,af,Mozambique,afmoz,MOZ,569,2020
+Brazil,BRA,Asia,as,China,aschn,CHN,141,2020
+Brazil,BRA,Asia,as,Hong Kong,ashkg,HKG,328,2020
+Brazil,BRA,Europe,eu,Belgium,eubel,BEL,39,2020
+Brazil,BRA,Europe,eu,Denmark,eudnk,DNK,45,2020
+Brazil,BRA,Europe,eu,United Kingdom,eugbr,GBR,83,2020
+Brazil,BRA,Europe,eu,Greece,eugrc,GRC,22,2020
+Brazil,BRA,Europe,eu,Malta,eumlt,MLT,23,2020
+Brazil,BRA,Europe,eu,Netherlands,eunld,NLD,24,2020
+Brazil,BRA,Europe,eu,Norway,eunor,NOR,23,2020
+Brazil,BRA,North America,na,Bahamas,nabhs,BHS,174,2020
+Brazil,BRA,North America,na,Panama,napan,PAN,114,2020
+Brazil,BRA,Oceania,oc,Marshall Islands,ocmhl,MHL,26,2020
+Brazil,BRA,South America,sa,Argentina,saarg,ARG,136,2020
+Brazil,BRA,South America,sa,Paraguay,sapry,PRY,8588,2020
+Brazil,BRA,Africa,af,Liberia,aflbr,LBR,36,2021
+Brazil,BRA,Asia,as,China,aschn,CHN,4149,2021
+Brazil,BRA,Asia,as,Hong Kong,ashkg,HKG,24,2021
+Brazil,BRA,Europe,eu,Germany,eudeu,DEU,481,2021
+Brazil,BRA,Europe,eu,United Kingdom,eugbr,GBR,81,2021
+Brazil,BRA,Europe,eu,Norway,eunor,NOR,24,2021
+Brazil,BRA,Oceania,oc,Marshall Islands,ocmhl,MHL,44,2021
+Canada,CAN,Asia,as,Israel,asisr,ISR,2000,2018
+Canada,CAN,Asia,as,South Korea,askor,KOR,127,2018
+Canada,CAN,Europe,eu,Switzerland,euche,CHE,95,2018
+Canada,CAN,Europe,eu,Czechia,eucze,CZE,22792,2018
+Canada,CAN,Europe,eu,Germany,eudeu,DEU,723,2018
+Canada,CAN,Europe,eu,United Kingdom,eugbr,GBR,212314,2018
+Canada,CAN,Europe,eu,Netherlands,eunld,NLD,47567,2018
+Canada,CAN,Europe,eu,Russia,eurus,RUS,3993,2018
+Canada,CAN,North America,na,Costa Rica,nacri,CRI,106556,2018
+Canada,CAN,North America,na,United States,nausa,USA,6065354,2018
+Canada,CAN,Asia,as,Indonesia,asidn,IDN,983,2019
+Canada,CAN,Asia,as,Japan,asjpn,JPN,2081,2019
+Canada,CAN,Asia,as,South Korea,askor,KOR,4092,2019
+Canada,CAN,Asia,as,Singapore,assgp,SGP,6,2019
+Canada,CAN,Europe,eu,Germany,eudeu,DEU,774,2019
+Canada,CAN,Europe,eu,France,eufra,FRA,7347,2019
+Canada,CAN,Europe,eu,United Kingdom,eugbr,GBR,54122,2019
+Canada,CAN,Europe,eu,Netherlands,eunld,NLD,39720,2019
+Canada,CAN,Europe,eu,Russia,eurus,RUS,18248,2019
+Canada,CAN,North America,na,Costa Rica,nacri,CRI,47654,2019
+Canada,CAN,North America,na,United States,nausa,USA,3891650,2019
+Canada,CAN,Oceania,oc,New Zealand,ocnzl,NZL,10813,2019
+Canada,CAN,Asia,as,South Korea,askor,KOR,38,2020
+Canada,CAN,Asia,as,Singapore,assgp,SGP,7,2020
+Canada,CAN,Europe,eu,Austria,euaut,AUT,70,2020
+Canada,CAN,Europe,eu,Belgium,eubel,BEL,177,2020
+Canada,CAN,Europe,eu,Switzerland,euche,CHE,29,2020
+Canada,CAN,Europe,eu,Germany,eudeu,DEU,81,2020
+Canada,CAN,Europe,eu,France,eufra,FRA,262,2020
+Canada,CAN,Europe,eu,United Kingdom,eugbr,GBR,4731,2020
+Canada,CAN,Europe,eu,Netherlands,eunld,NLD,7082,2020
+Canada,CAN,Europe,eu,Russia,eurus,RUS,119476,2020
+Canada,CAN,North America,na,Costa Rica,nacri,CRI,681,2020
+Canada,CAN,North America,na,Panama,napan,PAN,696,2020
+Canada,CAN,North America,na,United States,nausa,USA,4562304,2020
+Canada,CAN,Oceania,oc,New Zealand,ocnzl,NZL,14570,2020
+Canada,CAN,Asia,as,China,aschn,CHN,711,2021
+Canada,CAN,Europe,eu,Belgium,eubel,BEL,142,2021
+Canada,CAN,Europe,eu,Czechia,eucze,CZE,132,2021
+Canada,CAN,Europe,eu,France,eufra,FRA,414,2021
+Canada,CAN,Europe,eu,United Kingdom,eugbr,GBR,9640,2021
+Canada,CAN,Europe,eu,Netherlands,eunld,NLD,10594,2021
+Canada,CAN,Europe,eu,Russia,eurus,RUS,92085,2021
+Canada,CAN,North America,na,Panama,napan,PAN,696,2021
+Canada,CAN,North America,na,United States,nausa,USA,9307014,2021
+Chile,CHL,Europe,eu,Germany,eudeu,DEU,6475,2018
+Chile,CHL,Europe,eu,Spain,euesp,ESP,140551,2018
+Chile,CHL,North America,na,Canada,nacan,CAN,3412,2018
+Chile,CHL,Europe,eu,Germany,eudeu,DEU,137,2019
+Chile,CHL,Europe,eu,Spain,euesp,ESP,190318,2019
+Chile,CHL,Europe,eu,France,eufra,FRA,22312,2019
+Chile,CHL,North America,na,Canada,nacan,CAN,17773,2019
+Chile,CHL,Europe,eu,Belgium,eubel,BEL,138,2021
+Chile,CHL,Europe,eu,France,eufra,FRA,167,2021
+Congo,COG,North America,na,Canada,nacan,CAN,497,2018
+Congo,COG,Europe,eu,Germany,eudeu,DEU,150,2019
+Congo,COG,North America,na,Canada,nacan,CAN,30,2019
+Congo,COG,North America,na,Canada,nacan,CAN,1118,2020
+Congo,COG,North America,na,Canada,nacan,CAN,1237,2021
+Ecuador,ECU,Europe,eu,Switzerland,euche,CHE,297,2018
+Ecuador,ECU,Europe,eu,Spain,euesp,ESP,119,2018
+Ecuador,ECU,Europe,eu,United Kingdom,eugbr,GBR,105316,2018
+Ecuador,ECU,Europe,eu,Netherlands,eunld,NLD,36824,2018
+Ecuador,ECU,North America,na,United States,nausa,USA,295486,2018
+Ecuador,ECU,Europe,eu,United Kingdom,eugbr,GBR,59453,2019
+Ecuador,ECU,Europe,eu,Netherlands,eunld,NLD,23777,2019
+Ecuador,ECU,North America,na,Canada,nacan,CAN,3855,2019
+Ecuador,ECU,North America,na,Panama,napan,PAN,773,2019
+Ecuador,ECU,North America,na,United States,nausa,USA,296352,2019
+Ecuador,ECU,Europe,eu,United Kingdom,eugbr,GBR,63884,2020
+Ecuador,ECU,Europe,eu,Netherlands,eunld,NLD,30476,2020
+Ecuador,ECU,North America,na,Canada,nacan,CAN,1312,2020
+Ecuador,ECU,North America,na,United States,nausa,USA,188478,2020
+Ecuador,ECU,Europe,eu,United Kingdom,eugbr,GBR,77931,2021
+Ecuador,ECU,Europe,eu,Netherlands,eunld,NLD,142089,2021
+Ecuador,ECU,North America,na,United States,nausa,USA,274331,2021
+Ethiopia,ETH,Asia,as,United Arab Emirates,asare,ARE,20702,2021
+Ghana,GHA,Africa,af,Mozambique,afmoz,MOZ,98,2018
+Ghana,GHA,Europe,eu,Switzerland,euche,CHE,29,2019
+Ghana,GHA,Europe,eu,Poland,eupol,POL,290,2019
+Ghana,GHA,Africa,af,Kenya,afken,KEN,21,2020
+Ghana,GHA,North America,na,United States,nausa,USA,4048,2020
+Ghana,GHA,Europe,eu,United Kingdom,eugbr,GBR,2241,2021
+Ghana,GHA,Europe,eu,Hungary,euhun,HUN,2349,2021
+Guyana,GUY,Asia,as,Japan,asjpn,JPN,20,2019
+Guyana,GUY,Europe,eu,Russia,eurus,RUS,750,2019
+Guyana,GUY,North America,na,United States,nausa,USA,1332,2019
+Guyana,GUY,North America,na,United States,nausa,USA,2308,2020
+Guyana,GUY,Europe,eu,Germany,eudeu,DEU,50,2021
+Guyana,GUY,North America,na,United States,nausa,USA,2402,2021
+Honduras,HON,North America,na,Panama,napan,PAN,906,2019
+Kenya,KEN,Africa,af,Uganda,afuga,UGA,196249,2018
+Kenya,KEN,Africa,af,South Africa,afzaf,ZAF,297422,2018
+Kenya,KEN,Africa,af,Zambia,afzmb,ZMB,8757,2018
+Kenya,KEN,Europe,eu,Austria,euaut,AUT,170,2018
+Kenya,KEN,Europe,eu,United Kingdom,eugbr,GBR,810546,2018
+Kenya,KEN,Europe,eu,Italy,euita,ITA,220870,2018
+Kenya,KEN,Europe,eu,Netherlands,eunld,NLD,250671,2018
+Kenya,KEN,Europe,eu,Russia,eurus,RUS,1040,2018
+Kenya,KEN,North America,na,Canada,nacan,CAN,47224,2018
+Kenya,KEN,North America,na,United States,nausa,USA,627955,2018
+Kenya,KEN,Africa,af,Ethiopia,afeth,ETH,2336513,2019
+Kenya,KEN,Africa,af,Uganda,afuga,UGA,282180,2019
+Kenya,KEN,Africa,af,South Africa,afzaf,ZAF,350963,2019
+Kenya,KEN,Africa,af,Zimbabwe,afzwe,ZWE,241231,2019
+Kenya,KEN,Europe,eu,Belgium,eubel,BEL,77013,2019
+Kenya,KEN,Europe,eu,United Kingdom,eugbr,GBR,519347,2019
+Kenya,KEN,Europe,eu,Italy,euita,ITA,283388,2019
+Kenya,KEN,Europe,eu,Netherlands,eunld,NLD,152975,2019
+Kenya,KEN,Europe,eu,Russia,eurus,RUS,208,2019
+Kenya,KEN,North America,na,Canada,nacan,CAN,274213,2019
+Kenya,KEN,North America,na,United States,nausa,USA,284010,2019
+Kenya,KEN,Africa,af,Ethiopia,afeth,ETH,2120490,2020
+Kenya,KEN,Africa,af,Uganda,afuga,UGA,28903,2020
+Kenya,KEN,Africa,af,South Africa,afzaf,ZAF,1453088,2020
+Kenya,KEN,Africa,af,Zimbabwe,afzwe,ZWE,282286,2020
+Kenya,KEN,Europe,eu,Belgium,eubel,BEL,1428656,2020
+Kenya,KEN,Europe,eu,France,eufra,FRA,143492,2020
+Kenya,KEN,Europe,eu,United Kingdom,eugbr,GBR,1640781,2020
+Kenya,KEN,Europe,eu,Italy,euita,ITA,176249,2020
+Kenya,KEN,Europe,eu,Netherlands,eunld,NLD,190340,2020
+Kenya,KEN,North America,na,Canada,nacan,CAN,124700,2020
+Kenya,KEN,North America,na,United States,nausa,USA,259903,2020
+Kenya,KEN,Africa,af,Democratic Republic of the Congo,afcod,COD,177456,2021
+Kenya,KEN,Africa,af,Ethiopia,afeth,ETH,3150848,2021
+Kenya,KEN,Africa,af,Malawi,afmwi,MWI,1116,2021
+Kenya,KEN,Africa,af,Uganda,afuga,UGA,3519,2021
+Kenya,KEN,Africa,af,South Africa,afzaf,ZAF,278705,2021
+Kenya,KEN,Africa,af,Zimbabwe,afzwe,ZWE,209855,2021
+Kenya,KEN,Asia,as,Turkey,astur,TUR,912,2021
+Kenya,KEN,Europe,eu,Belgium,eubel,BEL,2054285,2021
+Kenya,KEN,Europe,eu,Denmark,eudnk,DNK,3087,2021
+Kenya,KEN,Europe,eu,Spain,euesp,ESP,49585,2021
+Kenya,KEN,Europe,eu,Finland,eufin,FIN,5,2021
+Kenya,KEN,Europe,eu,France,eufra,FRA,7205,2021
+Kenya,KEN,Europe,eu,United Kingdom,eugbr,GBR,1705942,2021
+Kenya,KEN,Europe,eu,Italy,euita,ITA,289469,2021
+Kenya,KEN,Europe,eu,Netherlands,eunld,NLD,1169801,2021
+Kenya,KEN,North America,na,Canada,nacan,CAN,261804,2021
+Kenya,KEN,North America,na,United States,nausa,USA,685418,2021
+Madagascar,MDG,Asia,as,Vietnam,asvnm,VNM,11409,2018
+Madagascar,MDG,Europe,eu,Czechia,eucze,CZE,462,2018
+Madagascar,MDG,Europe,eu,Spain,euesp,ESP,516,2018
+Madagascar,MDG,Europe,eu,France,eufra,FRA,5324,2018
+Madagascar,MDG,Europe,eu,Hungary,euhun,HUN,450,2018
+Madagascar,MDG,Asia,as,Japan,asjpn,JPN,526,2019
+Madagascar,MDG,Europe,eu,France,eufra,FRA,49931,2019
+Madagascar,MDG,Europe,eu,Netherlands,eunld,NLD,31532,2019
+Madagascar,MDG,Europe,eu,Spain,euesp,ESP,965,2020
+Malawi,MWI,Africa,af,Morocco,afmar,MAR,126,2019
+Mauritius,MUS,Europe,eu,Austria,euaut,AUT,43,2021
+Mexico,MEX,North America,na,Canada,nacan,CAN,1358006,2018
+Mexico,MEX,North America,na,Costa Rica,nacri,CRI,43478,2018
+Mexico,MEX,North America,na,Guatemala,nagtm,GTM,1709,2018
+Mexico,MEX,North America,na,Honduras,nahnd,HND,625,2018
+Mexico,MEX,North America,na,United States,nausa,USA,952880,2018
+Mexico,MEX,Europe,eu,Netherlands,eunld,NLD,10716,2019
+Mexico,MEX,North America,na,Canada,nacan,CAN,3629438,2019
+Mexico,MEX,North America,na,Costa Rica,nacri,CRI,47352,2019
+Mexico,MEX,North America,na,Dominican Republic,nadom,DOM,9921,2019
+Mexico,MEX,North America,na,United States,nausa,USA,1218055,2019
+Mexico,MEX,Europe,eu,Germany,eudeu,DEU,1692,2020
+Mexico,MEX,Europe,eu,Netherlands,eunld,NLD,6699,2020
+Mexico,MEX,North America,na,Canada,nacan,CAN,5196835,2020
+Mexico,MEX,North America,na,Costa Rica,nacri,CRI,34624,2020
+Mexico,MEX,North America,na,United States,nausa,USA,951341,2020
+Mexico,MEX,Europe,eu,Belgium,eubel,BEL,37,2021
+Mexico,MEX,Europe,eu,Netherlands,eunld,NLD,156421,2021
+Mexico,MEX,North America,na,Canada,nacan,CAN,3317204,2021
+Mexico,MEX,North America,na,Costa Rica,nacri,CRI,37258,2021
+Mexico,MEX,North America,na,United States,nausa,USA,1139572,2021
+Mozambique,MOZ,Africa,af,South Africa,afzaf,ZAF,1,2018
+Mozambique,MOZ,Europe,eu,France,eufra,FRA,485,2021
+Namibia,NAM,Africa,af,Botswana,afbwa,BWA,10,2018
+New Zealand,NZL,Europe,eu,Belgium,eubel,BEL,245,2021
+Nicaragua,NIC,Europe,eu,Spain,euesp,ESP,3498,2018
+Nicaragua,NIC,Europe,eu,Netherlands,eunld,NLD,474,2018
+Nicaragua,NIC,North America,na,Canada,nacan,CAN,895,2018
+Nicaragua,NIC,North America,na,United States,nausa,USA,37000,2018
+Nicaragua,NIC,Asia,as,Japan,asjpn,JPN,580,2019
+Nicaragua,NIC,Europe,eu,Germany,eudeu,DEU,400,2019
+Nicaragua,NIC,Europe,eu,Spain,euesp,ESP,4300,2019
+Nicaragua,NIC,Europe,eu,United Kingdom,eugbr,GBR,1675,2019
+Nicaragua,NIC,Europe,eu,Netherlands,eunld,NLD,206,2019
+Nicaragua,NIC,North America,na,Canada,nacan,CAN,1163,2019
+Nicaragua,NIC,North America,na,United States,nausa,USA,48464,2019
+Nicaragua,NIC,Asia,as,Japan,asjpn,JPN,1125,2020
+Nicaragua,NIC,Europe,eu,Czechia,eucze,CZE,140,2020
+Nicaragua,NIC,Europe,eu,Spain,euesp,ESP,2630,2020
+Nicaragua,NIC,Europe,eu,United Kingdom,eugbr,GBR,1650,2020
+Nicaragua,NIC,Europe,eu,Netherlands,eunld,NLD,1020,2020
+Nicaragua,NIC,North America,na,Canada,nacan,CAN,1762,2020
+Nicaragua,NIC,North America,na,United States,nausa,USA,57455,2020
+Nicaragua,NIC,Asia,as,Japan,asjpn,JPN,1435,2021
+Nicaragua,NIC,Asia,as,Chinese Taipei,asxxb,,390,2021
+Nicaragua,NIC,Europe,eu,Germany,eudeu,DEU,320,2021
+Nicaragua,NIC,Europe,eu,Spain,euesp,ESP,4500,2021
+Nicaragua,NIC,Europe,eu,United Kingdom,eugbr,GBR,1084,2021
+Nicaragua,NIC,Europe,eu,Netherlands,eunld,NLD,247,2021
+Nicaragua,NIC,North America,na,Canada,nacan,CAN,3000,2021
+Nicaragua,NIC,North America,na,Guatemala,nagtm,GTM,763,2021
+Nicaragua,NIC,North America,na,United States,nausa,USA,72450,2021
+Nigeria,NGA,Europe,eu,Germany,eudeu,DEU,23950,2018
+Nigeria,NGA,Europe,eu,Germany,eudeu,DEU,2357,2019
+Nigeria,NGA,Europe,eu,Germany,eudeu,DEU,5271,2020
+Nigeria,NGA,Europe,eu,Germany,eudeu,DEU,5639,2021
+Nigeria,NGA,Europe,eu,United Kingdom,eugbr,GBR,13988,2021
+Paraguay,PAR,North America,na,United States,nausa,USA,10,2021
+Paraguay,PAR,Oceania,oc,Australia,ocaus,AUS,10,2021
+Peru,PER,Asia,as,Japan,asjpn,JPN,5331,2018
+Peru,PER,Europe,eu,Germany,eudeu,DEU,606,2018
+Peru,PER,Asia,as,Israel,asisr,ISR,2000,2019
+Peru,PER,Europe,eu,Germany,eudeu,DEU,597,2019
+Peru,PER,Asia,as,Japan,asjpn,JPN,3194,2020
+Peru,PER,Europe,eu,Germany,eudeu,DEU,2516,2020
+Peru,PER,Asia,as,Hong Kong,ashkg,HKG,2550,2021
+Peru,PER,Asia,as,Japan,asjpn,JPN,13412,2021
+Peru,PER,Europe,eu,Germany,eudeu,DEU,2489,2021
+Senegal,SEN,Europe,eu,Netherlands,eunld,NLD,118,2021
+South Africa,ZAF,Africa,af,Botswana,afbwa,BWA,3791,2018
+South Africa,ZAF,Africa,af,Morocco,afmar,MAR,112,2018
+South Africa,ZAF,Africa,af,Namibia,afnam,NAM,19,2018
+South Africa,ZAF,Africa,af,Zimbabwe,afzwe,ZWE,997,2018
+South Africa,ZAF,Europe,eu,Spain,euesp,ESP,142596,2018
+South Africa,ZAF,Europe,eu,Netherlands,eunld,NLD,24857,2018
+South Africa,ZAF,Africa,af,Angola,afago,AGO,3136,2019
+South Africa,ZAF,Africa,af,Botswana,afbwa,BWA,41234,2019
+South Africa,ZAF,Africa,af,Lesotho,aflso,LSO,1522,2019
+South Africa,ZAF,Africa,af,Morocco,afmar,MAR,233,2019
+South Africa,ZAF,Africa,af,Madagascar,afmdg,MDG,346,2019
+South Africa,ZAF,Africa,af,Zambia,afzmb,ZMB,41638,2019
+South Africa,ZAF,Africa,af,Zimbabwe,afzwe,ZWE,1682,2019
+South Africa,ZAF,Asia,as,Vietnam,asvnm,VNM,79004,2019
+South Africa,ZAF,Europe,eu,Austria,euaut,AUT,92,2019
+South Africa,ZAF,Europe,eu,Denmark,eudnk,DNK,7471,2019
+South Africa,ZAF,Europe,eu,Spain,euesp,ESP,29561,2019
+South Africa,ZAF,Europe,eu,Netherlands,eunld,NLD,10610,2019
+South Africa,ZAF,North America,na,United States,nausa,USA,11134,2019
+South Africa,ZAF,Oceania,oc,Australia,ocaus,AUS,3,2019
+South Africa,ZAF,Africa,af,Benin,afben,BEN,6,2020
+South Africa,ZAF,Africa,af,Botswana,afbwa,BWA,3403,2020
+South Africa,ZAF,Africa,af,Kenya,afken,KEN,1,2020
+South Africa,ZAF,Africa,af,Lesotho,aflso,LSO,866,2020
+South Africa,ZAF,Africa,af,Morocco,afmar,MAR,81,2020
+South Africa,ZAF,Africa,af,Tanzania,aftza,TZA,201,2020
+South Africa,ZAF,Africa,af,Zambia,afzmb,ZMB,18902,2020
+South Africa,ZAF,Africa,af,Zimbabwe,afzwe,ZWE,7674,2020
+South Africa,ZAF,Asia,as,Israel,asisr,ISR,851,2020
+South Africa,ZAF,Asia,as,Japan,asjpn,JPN,1539,2020
+South Africa,ZAF,Europe,eu,Czechia,eucze,CZE,22,2020
+South Africa,ZAF,Europe,eu,Germany,eudeu,DEU,68920,2020
+South Africa,ZAF,Europe,eu,Spain,euesp,ESP,225414,2020
+South Africa,ZAF,Europe,eu,United Kingdom,eugbr,GBR,1,2020
+South Africa,ZAF,Europe,eu,Sweden,euswe,SWE,109,2020
+South Africa,ZAF,North America,na,United States,nausa,USA,4704,2020
+South Africa,ZAF,Africa,af,Botswana,afbwa,BWA,250,2021
+South Africa,ZAF,Africa,af,Lesotho,aflso,LSO,7865,2021
+South Africa,ZAF,Africa,af,Morocco,afmar,MAR,60,2021
+South Africa,ZAF,Africa,af,Zambia,afzmb,ZMB,47337,2021
+South Africa,ZAF,Africa,af,Zimbabwe,afzwe,ZWE,22845,2021
+South Africa,ZAF,Asia,as,Israel,asisr,ISR,12320,2021
+South Africa,ZAF,Asia,as,Japan,asjpn,JPN,3253,2021
+South Africa,ZAF,Europe,eu,Switzerland,euche,CHE,153,2021
+South Africa,ZAF,Europe,eu,Germany,eudeu,DEU,81299,2021
+South Africa,ZAF,Europe,eu,Spain,euesp,ESP,390981,2021
+South Africa,ZAF,Europe,eu,France,eufra,FRA,81,2021
+South Africa,ZAF,Europe,eu,United Kingdom,eugbr,GBR,11758,2021
+South Africa,ZAF,Europe,eu,Netherlands,eunld,NLD,7799,2021
+South Africa,ZAF,Europe,eu,Portugal,euprt,PRT,1,2021
+South Africa,ZAF,Europe,eu,Sweden,euswe,SWE,700,2021
+South Africa,ZAF,North America,na,Canada,nacan,CAN,17,2021
+South Africa,ZAF,North America,na,United States,nausa,USA,17865,2021
+Suriname,SUR,Europe,eu,Netherlands,eunld,NLD,50132,2018
+Suriname,SUR,Europe,eu,Netherlands,eunld,NLD,45978,2019
+Suriname,SUR,Europe,eu,Netherlands,eunld,NLD,41101,2020
+Suriname,SUR,Europe,eu,Netherlands,eunld,NLD,39715,2021
+Togo,TGO,Europe,eu,Belgium,eubel,BEL,1,2018
+Togo,TGO,Europe,eu,Germany,eudeu,DEU,791,2018
+Togo,TGO,Europe,eu,France,eufra,FRA,2224,2018
+Togo,TGO,South America,sa,Argentina,saarg,ARG,220,2018
+Togo,TGO,Europe,eu,Belgium,eubel,BEL,61,2019
+Togo,TGO,Europe,eu,Czechia,eucze,CZE,2418,2019
+Togo,TGO,Europe,eu,France,eufra,FRA,1514,2019
+Togo,TGO,Europe,eu,United Kingdom,eugbr,GBR,1583,2019
+Togo,TGO,Europe,eu,France,eufra,FRA,8074,2020
+Togo,TGO,Europe,eu,Belgium,eubel,BEL,5,2021
+Togo,TGO,Europe,eu,France,eufra,FRA,4513,2021
+Togo,TGO,Europe,eu,United Kingdom,eugbr,GBR,3493,2021
+Zambia,ZMB,Africa,af,Namibia,afnam,NAM,4018,2021
+Zambia,ZMB,Africa,af,South Africa,afzaf,ZAF,1617,2021

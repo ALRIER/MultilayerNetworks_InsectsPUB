@@ -1,10 +1,23 @@
 library(readr)
-Exporters2017 <- read_csv("Data/Exporters2017.csv")
-Exporters2018 <- read_csv("Data/Exporters2018.csv")
-Exporters2019 <- read_csv("Data/Exporters2019.csv")
-Exporters2020 <- read_csv("Data/Exporters2020.csv")
-Exporters2021 <- read_csv("Data/Exporters2021.csv")
+setwd("Study_1/DataExporters/")
+mydir = getwd()
+myfiles = list.files(path=mydir, pattern="*.csv", full.names=FALSE)
+myfiles
 
-Exporters <- list(Exporters2017, Exporters2018, Exporters2019, Exporters2020, Exporters2021)
-Exporters <- do.call("rbind", Exporters)
+# Loop through each file
+for (file in myfiles) {
+  # Extract the filename without the extension
+  filename <- str_remove(file, ".csv$")
+  
+  # Read the CSV file
+  data <- read_csv(file)
+  
+  # Assign the data to an object named after the file
+  assign(x = filename, value = data, envir = .GlobalEnv)
+}
+
+
+
+Top10Exporters <- list(BEL, CAN, COL, ECU, ISR, KEN, MAR, MEX, NDL, USA)
+Exporters <- do.call("rbind", Top10Exporters)
 rm(list=setdiff(ls(), "Exporters"))

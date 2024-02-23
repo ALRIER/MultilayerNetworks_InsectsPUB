@@ -1,0 +1,102 @@
+Exporter,Continent,Continent ID,Country,Country ID,ISO 3,Trade Value,Year
+ISR,Africa,af,Angola,afago,ago,4022,2018
+ISR,Africa,af,South Africa,afzaf,zaf,42000,2018
+ISR,Asia,as,Azerbaijan,asaze,aze,1000,2018
+ISR,Asia,as,Jordan,asjor,jor,40000,2018
+ISR,Asia,as,Japan,asjpn,jpn,44000,2018
+ISR,Asia,as,Kazakhstan,askaz,kaz,81029,2018
+ISR,Asia,as,South Korea,askor,kor,1692,2018
+ISR,Asia,as,Chinese Taipei,asxxb,,7000,2018
+ISR,Europe,eu,Belgium,eubel,bel,849302,2018
+ISR,Europe,eu,Belarus,eublr,blr,201000,2018
+ISR,Europe,eu,Switzerland,euche,che,42,2018
+ISR,Europe,eu,Spain,euesp,esp,11784,2018
+ISR,Europe,eu,United Kingdom,eugbr,gbr,115561,2018
+ISR,Europe,eu,Greece,eugrc,grc,14000,2018
+ISR,Europe,eu,Croatia,euhrv,hrv,226647,2018
+ISR,Europe,eu,Netherlands,eunld,nld,7928000,2018
+ISR,Europe,eu,Russia,eurus,rus,1253195,2018
+ISR,Europe,eu,Ukraine,euukr,ukr,23000,2018
+ISR,North America,na,Canada,nacan,can,42320,2018
+ISR,North America,na,Dominican Republic,nadom,dom,6074,2018
+ISR,North America,na,Mexico,namex,mex,107000,2018
+ISR,North America,na,United States,nausa,usa,2972945,2018
+ISR,Oceania,oc,Australia,ocaus,aus,64000,2018
+ISR,South America,sa,Chile,sachl,chl,38617,2018
+ISR,South America,sa,Peru,saper,per,798,2018
+ISR,Africa,af,Angola,afago,ago,3270,2019
+ISR,Africa,af,Ghana,afgha,gha,872,2019
+ISR,Africa,af,South Africa,afzaf,zaf,293795,2019
+ISR,Asia,as,Azerbaijan,asaze,aze,1000,2019
+ISR,Asia,as,Cyprus,ascyp,cyp,1000,2019
+ISR,Asia,as,Jordan,asjor,jor,43000,2019
+ISR,Asia,as,Japan,asjpn,jpn,93000,2019
+ISR,Asia,as,Kazakhstan,askaz,kaz,108288,2019
+ISR,Asia,as,South Korea,askor,kor,154,2019
+ISR,Asia,as,Chinese Taipei,asxxb,,16000,2019
+ISR,Europe,eu,Belgium,eubel,bel,33053,2019
+ISR,Europe,eu,Belarus,eublr,blr,512000,2019
+ISR,Europe,eu,Germany,eudeu,deu,77,2019
+ISR,Europe,eu,Spain,euesp,esp,582341,2019
+ISR,Europe,eu,United Kingdom,eugbr,gbr,65041,2019
+ISR,Europe,eu,Greece,eugrc,grc,2108,2019
+ISR,Europe,eu,Croatia,euhrv,hrv,225194,2019
+ISR,Europe,eu,Italy,euita,ita,5707,2019
+ISR,Europe,eu,Netherlands,eunld,nld,3236536,2019
+ISR,Europe,eu,Russia,eurus,rus,530123,2019
+ISR,Europe,eu,Ukraine,euukr,ukr,38000,2019
+ISR,North America,na,Canada,nacan,can,54798,2019
+ISR,North America,na,Dominican Republic,nadom,dom,13411,2019
+ISR,North America,na,Mexico,namex,mex,610000,2019
+ISR,North America,na,United States,nausa,usa,2930013,2019
+ISR,Oceania,oc,Australia,ocaus,aus,68000,2019
+ISR,South America,sa,Chile,sachl,chl,39967,2019
+ISR,Africa,af,South Africa,afzaf,zaf,308694,2020
+ISR,Asia,as,China,aschn,chn,161,2020
+ISR,Asia,as,Japan,asjpn,jpn,99000,2020
+ISR,Asia,as,Kazakhstan,askaz,kaz,54818,2020
+ISR,Asia,as,South Korea,askor,kor,1966,2020
+ISR,Asia,as,Singapore,assgp,sgp,17000,2020
+ISR,Europe,eu,Belgium,eubel,bel,2237447,2020
+ISR,Europe,eu,Belarus,eublr,blr,203000,2020
+ISR,Europe,eu,Germany,eudeu,deu,29000,2020
+ISR,Europe,eu,Spain,euesp,esp,1343568,2020
+ISR,Europe,eu,United Kingdom,eugbr,gbr,475641,2020
+ISR,Europe,eu,Greece,eugrc,grc,7000,2020
+ISR,Europe,eu,Croatia,euhrv,hrv,181314,2020
+ISR,Europe,eu,Netherlands,eunld,nld,663312,2020
+ISR,Europe,eu,Russia,eurus,rus,367510,2020
+ISR,Europe,eu,Ukraine,euukr,ukr,2516,2020
+ISR,North America,na,Canada,nacan,can,145037,2020
+ISR,North America,na,Dominican Republic,nadom,dom,660,2020
+ISR,North America,na,Mexico,namex,mex,1062000,2020
+ISR,North America,na,United States,nausa,usa,3361057,2020
+ISR,Oceania,oc,Australia,ocaus,aus,47000,2020
+ISR,South America,sa,Chile,sachl,chl,13000,2020
+ISR,Africa,af,Mali,afmli,mli,1000,2021
+ISR,Africa,af,South Africa,afzaf,zaf,340690,2021
+ISR,Asia,as,Jordan,asjor,jor,93000,2021
+ISR,Asia,as,Japan,asjpn,jpn,98000,2021
+ISR,Asia,as,Kazakhstan,askaz,kaz,12000,2021
+ISR,Asia,as,South Korea,askor,kor,7000,2021
+ISR,Europe,eu,Austria,euaut,aut,2451,2021
+ISR,Europe,eu,Belgium,eubel,bel,1344251,2021
+ISR,Europe,eu,Belarus,eublr,blr,145000,2021
+ISR,Europe,eu,Switzerland,euche,che,1366,2021
+ISR,Europe,eu,Germany,eudeu,deu,2688,2021
+ISR,Europe,eu,Denmark,eudnk,dnk,497,2021
+ISR,Europe,eu,Spain,euesp,esp,1872200,2021
+ISR,Europe,eu,Finland,eufin,fin,97,2021
+ISR,Europe,eu,France,eufra,fra,708,2021
+ISR,Europe,eu,United Kingdom,eugbr,gbr,1104809,2021
+ISR,Europe,eu,Croatia,euhrv,hrv,250024,2021
+ISR,Europe,eu,Italy,euita,ita,6459,2021
+ISR,Europe,eu,Netherlands,eunld,nld,2145260,2021
+ISR,Europe,eu,Russia,eurus,rus,351294,2021
+ISR,Europe,eu,Ukraine,euukr,ukr,14684,2021
+ISR,North America,na,Canada,nacan,can,316405,2021
+ISR,North America,na,Dominican Republic,nadom,dom,2407,2021
+ISR,North America,na,Mexico,namex,mex,2778000,2021
+ISR,North America,na,United States,nausa,usa,4277515,2021
+ISR,Oceania,oc,Australia,ocaus,aus,72000,2021
+ISR,South America,sa,Chile,sachl,chl,26247,2021

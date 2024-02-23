@@ -1,0 +1,18 @@
+Exporter,Continent,Continent ID,Country,Country ID,ISO 3,Trade Value,Year
+ECU,Europe,eu,Switzerland,euche,che,297,2018
+ECU,Europe,eu,Spain,euesp,esp,119,2018
+ECU,Europe,eu,United Kingdom,eugbr,gbr,105316,2018
+ECU,Europe,eu,Netherlands,eunld,nld,36824,2018
+ECU,North America,na,United States,nausa,usa,295486,2018
+ECU,Europe,eu,United Kingdom,eugbr,gbr,59453,2019
+ECU,Europe,eu,Netherlands,eunld,nld,23777,2019
+ECU,North America,na,Canada,nacan,can,3855,2019
+ECU,North America,na,Panama,napan,pan,773,2019
+ECU,North America,na,United States,nausa,usa,296352,2019
+ECU,Europe,eu,United Kingdom,eugbr,gbr,63884,2020
+ECU,Europe,eu,Netherlands,eunld,nld,30476,2020
+ECU,North America,na,Canada,nacan,can,1312,2020
+ECU,North America,na,United States,nausa,usa,188478,2020
+ECU,Europe,eu,United Kingdom,eugbr,gbr,77931,2021
+ECU,Europe,eu,Netherlands,eunld,nld,142089,2021
+ECU,North America,na,United States,nausa,usa,274331,2021

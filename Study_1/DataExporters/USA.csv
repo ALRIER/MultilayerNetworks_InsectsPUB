@@ -1,0 +1,155 @@
+Exporter,Continent,Continent ID,Country,Country ID,ISO 3,Trade Value,Year
+USA,Africa,af,Mozambique,afmoz,moz,10085,2018
+USA,Asia,as,United Arab Emirates,asare,are,671,2018
+USA,Asia,as,China,aschn,chn,47318,2018
+USA,Asia,as,India,asind,ind,24629,2018
+USA,Asia,as,Israel,asisr,isr,4000,2018
+USA,Asia,as,Japan,asjpn,jpn,18341,2018
+USA,Asia,as,South Korea,askor,kor,13018,2018
+USA,Asia,as,Burma,asmmr,mmr,150,2018
+USA,Asia,as,Singapore,assgp,sgp,7735,2018
+USA,Asia,as,Turkey,astur,tur,12082,2018
+USA,Europe,eu,Austria,euaut,aut,8258,2018
+USA,Europe,eu,Belgium,eubel,bel,4356,2018
+USA,Europe,eu,Switzerland,euche,che,12622,2018
+USA,Europe,eu,Czechia,eucze,cze,2624,2018
+USA,Europe,eu,Germany,eudeu,deu,115355,2018
+USA,Europe,eu,Denmark,eudnk,dnk,1402,2018
+USA,Europe,eu,Spain,euesp,esp,5064,2018
+USA,Europe,eu,Estonia,euest,est,69,2018
+USA,Europe,eu,Finland,eufin,fin,3192,2018
+USA,Europe,eu,France,eufra,fra,18497,2018
+USA,Europe,eu,United Kingdom,eugbr,gbr,208066,2018
+USA,Europe,eu,Greece,eugrc,grc,1154,2018
+USA,Europe,eu,Hungary,euhun,hun,183,2018
+USA,Europe,eu,Ireland,euirl,irl,294,2018
+USA,Europe,eu,Italy,euita,ita,105630,2018
+USA,Europe,eu,Netherlands,eunld,nld,2064,2018
+USA,Europe,eu,Poland,eupol,pol,231,2018
+USA,Europe,eu,Portugal,euprt,prt,1081,2018
+USA,Europe,eu,Slovakia,eusvk,svk,346,2018
+USA,Europe,eu,Sweden,euswe,swe,4492,2018
+USA,North America,na,Bahamas,nabhs,bhs,7045,2018
+USA,North America,na,Canada,nacan,can,3771062,2018
+USA,North America,na,Costa Rica,nacri,cri,284037,2018
+USA,North America,na,Guatemala,nagtm,gtm,7500,2018
+USA,North America,na,Honduras,nahnd,hnd,824,2018
+USA,North America,na,Mexico,namex,mex,480000,2018
+USA,North America,na,Panama,napan,pan,628,2018
+USA,South America,sa,Chile,sachl,chl,1571,2018
+USA,South America,sa,Uruguay,saury,ury,1487,2018
+USA,Africa,af,Uganda,afuga,uga,40,2019
+USA,Asia,as,United Arab Emirates,asare,are,4704,2019
+USA,Asia,as,Bahrain,asbhr,bhr,276,2019
+USA,Asia,as,China,aschn,chn,35466,2019
+USA,Asia,as,Cyprus,ascyp,cyp,1151,2019
+USA,Asia,as,India,asind,ind,2063,2019
+USA,Asia,as,Israel,asisr,isr,4000,2019
+USA,Asia,as,Japan,asjpn,jpn,46316,2019
+USA,Asia,as,South Korea,askor,kor,256496,2019
+USA,Asia,as,Singapore,assgp,sgp,5483,2019
+USA,Europe,eu,Austria,euaut,aut,18000,2019
+USA,Europe,eu,Switzerland,euche,che,12540,2019
+USA,Europe,eu,Czechia,eucze,cze,4047,2019
+USA,Europe,eu,Germany,eudeu,deu,66852,2019
+USA,Europe,eu,Denmark,eudnk,dnk,790,2019
+USA,Europe,eu,Spain,euesp,esp,2824,2019
+USA,Europe,eu,Finland,eufin,fin,2879,2019
+USA,Europe,eu,France,eufra,fra,21930,2019
+USA,Europe,eu,United Kingdom,eugbr,gbr,249457,2019
+USA,Europe,eu,Greece,eugrc,grc,1135,2019
+USA,Europe,eu,Hungary,euhun,hun,1559,2019
+USA,Europe,eu,Ireland,euirl,irl,72,2019
+USA,Europe,eu,Italy,euita,ita,88165,2019
+USA,Europe,eu,Netherlands,eunld,nld,8843,2019
+USA,Europe,eu,Norway,eunor,nor,517,2019
+USA,Europe,eu,Sweden,euswe,swe,6978,2019
+USA,North America,na,Bahamas,nabhs,bhs,4029,2019
+USA,North America,na,Canada,nacan,can,6836900,2019
+USA,North America,na,Mexico,namex,mex,458252,2019
+USA,North America,na,Panama,napan,pan,372,2019
+USA,South America,sa,Chile,sachl,chl,1975,2019
+USA,Africa,af,Madagascar,afmdg,mdg,507,2020
+USA,Africa,af,South Africa,afzaf,zaf,271,2020
+USA,Asia,as,Afghanistan,asafg,afg,4483,2020
+USA,Asia,as,United Arab Emirates,asare,are,935,2020
+USA,Asia,as,China,aschn,chn,38213,2020
+USA,Asia,as,Cyprus,ascyp,cyp,316,2020
+USA,Asia,as,India,asind,ind,2030,2020
+USA,Asia,as,Israel,asisr,isr,21000,2020
+USA,Asia,as,Japan,asjpn,jpn,44760,2020
+USA,Asia,as,South Korea,askor,kor,32987,2020
+USA,Asia,as,Malaysia,asmys,mys,36357,2020
+USA,Asia,as,Singapore,assgp,sgp,7100,2020
+USA,Europe,eu,Austria,euaut,aut,5524,2020
+USA,Europe,eu,Belgium,eubel,bel,397,2020
+USA,Europe,eu,Switzerland,euche,che,21134,2020
+USA,Europe,eu,Czechia,eucze,cze,3576,2020
+USA,Europe,eu,Germany,eudeu,deu,47658,2020
+USA,Europe,eu,Denmark,eudnk,dnk,2393,2020
+USA,Europe,eu,Spain,euesp,esp,6509,2020
+USA,Europe,eu,Estonia,euest,est,868,2020
+USA,Europe,eu,Finland,eufin,fin,1551,2020
+USA,Europe,eu,France,eufra,fra,20484,2020
+USA,Europe,eu,United Kingdom,eugbr,gbr,162293,2020
+USA,Europe,eu,Hungary,euhun,hun,3487,2020
+USA,Europe,eu,Ireland,euirl,irl,3830,2020
+USA,Europe,eu,Iceland,euisl,isl,226,2020
+USA,Europe,eu,Italy,euita,ita,75666,2020
+USA,Europe,eu,Luxembourg,eulux,lux,62,2020
+USA,Europe,eu,Netherlands,eunld,nld,739,2020
+USA,Europe,eu,Norway,eunor,nor,293,2020
+USA,Europe,eu,Poland,eupol,pol,144,2020
+USA,Europe,eu,Slovakia,eusvk,svk,652,2020
+USA,Europe,eu,Sweden,euswe,swe,10640,2020
+USA,North America,na,Canada,nacan,can,7743513,2020
+USA,North America,na,Guatemala,nagtm,gtm,1477,2020
+USA,North America,na,Mexico,namex,mex,528100,2020
+USA,Oceania,oc,Australia,ocaus,aus,2765,2020
+USA,Oceania,oc,New Zealand,ocnzl,nzl,4643,2020
+USA,South America,sa,Chile,sachl,chl,368,2020
+USA,South America,sa,Guyana,saguy,guy,3630,2020
+USA,Africa,af,Ghana,afgha,gha,2862,2021
+USA,Africa,af,Morocco,afmar,mar,328,2021
+USA,Africa,af,South Africa,afzaf,zaf,76,2021
+USA,Asia,as,United Arab Emirates,asare,are,364,2021
+USA,Asia,as,Armenia,asarm,arm,752,2021
+USA,Asia,as,China,aschn,chn,94087,2021
+USA,Asia,as,Cyprus,ascyp,cyp,724,2021
+USA,Asia,as,Hong Kong,ashkg,hkg,104917,2021
+USA,Asia,as,India,asind,ind,2516,2021
+USA,Asia,as,Israel,asisr,isr,11000,2021
+USA,Asia,as,Japan,asjpn,jpn,3754,2021
+USA,Asia,as,South Korea,askor,kor,36492,2021
+USA,Asia,as,Singapore,assgp,sgp,6281,2021
+USA,Asia,as,Thailand,astha,tha,570,2021
+USA,Asia,as,Chinese Taipei,asxxb,,3724,2021
+USA,Europe,eu,Austria,euaut,aut,4802,2021
+USA,Europe,eu,Belgium,eubel,bel,2257,2021
+USA,Europe,eu,Switzerland,euche,che,30594,2021
+USA,Europe,eu,Czechia,eucze,cze,3899,2021
+USA,Europe,eu,Germany,eudeu,deu,200131,2021
+USA,Europe,eu,Denmark,eudnk,dnk,3858,2021
+USA,Europe,eu,Spain,euesp,esp,13278,2021
+USA,Europe,eu,Estonia,euest,est,198,2021
+USA,Europe,eu,Finland,eufin,fin,4762,2021
+USA,Europe,eu,France,eufra,fra,68081,2021
+USA,Europe,eu,United Kingdom,eugbr,gbr,301530,2021
+USA,Europe,eu,Greece,eugrc,grc,37521,2021
+USA,Europe,eu,Hungary,euhun,hun,5646,2021
+USA,Europe,eu,Ireland,euirl,irl,1365,2021
+USA,Europe,eu,Italy,euita,ita,78702,2021
+USA,Europe,eu,Netherlands,eunld,nld,174,2021
+USA,Europe,eu,Norway,eunor,nor,7994,2021
+USA,Europe,eu,Poland,eupol,pol,729,2021
+USA,Europe,eu,Portugal,euprt,prt,6472,2021
+USA,Europe,eu,Romania,eurou,rou,1,2021
+USA,Europe,eu,Slovenia,eusvn,svn,160,2021
+USA,Europe,eu,Sweden,euswe,swe,8978,2021
+USA,North America,na,Bermuda,nabmu,bmu,94,2021
+USA,North America,na,Canada,nacan,can,8988837,2021
+USA,North America,na,Guatemala,nagtm,gtm,73,2021
+USA,North America,na,Jamaica,najam,jam,41,2021
+USA,North America,na,Mexico,namex,mex,1785707,2021
+USA,Oceania,oc,Australia,ocaus,aus,1879,2021
+USA,South America,sa,Chile,sachl,chl,665,2021

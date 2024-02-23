@@ -1,0 +1,46 @@
+Exporter,Continent,Continent ID,Country,Country ID,ISO 3,Trade Value,Year
+CAN,Asia,as,Israel,asisr,isr,2000,2018
+CAN,Asia,as,South Korea,askor,kor,127,2018
+CAN,Europe,eu,Switzerland,euche,che,95,2018
+CAN,Europe,eu,Czechia,eucze,cze,22792,2018
+CAN,Europe,eu,Germany,eudeu,deu,723,2018
+CAN,Europe,eu,United Kingdom,eugbr,gbr,212314,2018
+CAN,Europe,eu,Netherlands,eunld,nld,47567,2018
+CAN,Europe,eu,Russia,eurus,rus,3993,2018
+CAN,North America,na,Costa Rica,nacri,cri,106556,2018
+CAN,North America,na,United States,nausa,usa,6065354,2018
+CAN,Asia,as,Indonesia,asidn,idn,983,2019
+CAN,Asia,as,Japan,asjpn,jpn,2081,2019
+CAN,Asia,as,South Korea,askor,kor,4092,2019
+CAN,Asia,as,Singapore,assgp,sgp,6,2019
+CAN,Europe,eu,Germany,eudeu,deu,774,2019
+CAN,Europe,eu,France,eufra,fra,7347,2019
+CAN,Europe,eu,United Kingdom,eugbr,gbr,54122,2019
+CAN,Europe,eu,Netherlands,eunld,nld,39720,2019
+CAN,Europe,eu,Russia,eurus,rus,18248,2019
+CAN,North America,na,Costa Rica,nacri,cri,47654,2019
+CAN,North America,na,United States,nausa,usa,3891650,2019
+CAN,Oceania,oc,New Zealand,ocnzl,nzl,10813,2019
+CAN,Asia,as,South Korea,askor,kor,38,2020
+CAN,Asia,as,Singapore,assgp,sgp,7,2020
+CAN,Europe,eu,Austria,euaut,aut,70,2020
+CAN,Europe,eu,Belgium,eubel,bel,177,2020
+CAN,Europe,eu,Switzerland,euche,che,29,2020
+CAN,Europe,eu,Germany,eudeu,deu,81,2020
+CAN,Europe,eu,France,eufra,fra,262,2020
+CAN,Europe,eu,United Kingdom,eugbr,gbr,4731,2020
+CAN,Europe,eu,Netherlands,eunld,nld,7082,2020
+CAN,Europe,eu,Russia,eurus,rus,119476,2020
+CAN,North America,na,Costa Rica,nacri,cri,681,2020
+CAN,North America,na,Panama,napan,pan,696,2020
+CAN,North America,na,United States,nausa,usa,4562304,2020
+CAN,Oceania,oc,New Zealand,ocnzl,nzl,14570,2020
+CAN,Asia,as,China,aschn,chn,711,2021
+CAN,Europe,eu,Belgium,eubel,bel,142,2021
+CAN,Europe,eu,Czechia,eucze,cze,132,2021
+CAN,Europe,eu,France,eufra,fra,414,2021
+CAN,Europe,eu,United Kingdom,eugbr,gbr,9640,2021
+CAN,Europe,eu,Netherlands,eunld,nld,10594,2021
+CAN,Europe,eu,Russia,eurus,rus,92085,2021
+CAN,North America,na,Panama,napan,pan,696,2021
+CAN,North America,na,United States,nausa,usa,9307014,2021

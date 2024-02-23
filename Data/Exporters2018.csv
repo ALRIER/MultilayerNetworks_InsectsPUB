@@ -1,0 +1,85 @@
+Continent ID,Continent,Country ID,Country,ISO 3,Trade Value,Year
+eu,Europe,eunld,Netherlands,nld,39012667,2018
+eu,Europe,eubel,Belgium,bel,30461034,2018
+as,Asia,asisr,Israel,isr,13922232,2018
+af,Africa,afmar,Morocco,mar,9555749,2018
+na,North America,nacan,Canada,can,7521872,2018
+eu,Europe,eugbr,United Kingdom,gbr,6979280,2018
+af,Africa,aftza,Tanzania,tza,5067874,2018
+na,North America,nausa,United States,usa,4913391,2018
+eu,Europe,eudeu,Germany,deu,4684581,2018
+eu,Europe,eudnk,Denmark,dnk,4600510,2018
+af,Africa,afken,Kenya,ken,2857141,2018
+eu,Europe,euesp,Spain,esp,2460668,2018
+na,North America,namex,Mexico,mex,2356698,2018
+na,North America,nacri,Costa Rica,cri,2224538,2018
+eu,Europe,euukr,Ukraine,ukr,1893686,2018
+eu,Europe,euita,Italy,ita,1875027,2018
+eu,Europe,eucze,Czechia,cze,1692436,2018
+eu,Europe,eupol,Poland,pol,1443904,2018
+eu,Europe,euche,Switzerland,che,1333842,2018
+eu,Europe,eurus,Russia,rus,930451,2018
+eu,Europe,eufra,France,fra,828156,2018
+eu,Europe,euhun,Hungary,hun,725484,2018
+eu,Europe,eusvk,Slovakia,svk,662679,2018
+as,Asia,astur,Turkey,tur,575745,2018
+as,Asia,asidn,Indonesia,idn,504944,2018
+eu,Europe,eultu,Lithuania,ltu,473079,2018
+sa,South America,saecu,Ecuador,ecu,438042,2018
+as,Asia,asmys,Malaysia,mys,393419,2018
+af,Africa,afegy,Egypt,egy,388198,2018
+as,Asia,aschn,China,chn,356378,2018
+na,North America,naslv,El Salvador,slv,305124,2018
+as,Asia,asphl,Philippines,phl,283865,2018
+na,North America,nablz,Belize,blz,275646,2018
+eu,Europe,euswe,Sweden,swe,264817,2018
+eu,Europe,euaut,Austria,aut,193254,2018
+af,Africa,afzaf,South Africa,zaf,183597,2018
+sa,South America,sachl,Chile,chl,150438,2018
+eu,Europe,eublr,Belarus,blr,108453,2018
+eu,Europe,eugrc,Greece,grc,91159,2018
+as,Asia,asxxb,Chinese Taipei,,90947,2018
+as,Asia,astha,Thailand,tha,75082,2018
+sa,South America,sasur,Suriname,sur,50132,2018
+as,Asia,asmmr,Burma,mmr,44095,2018
+na,North America,nanic,Nicaragua,nic,41867,2018
+as,Asia,askwt,Kuwait,kwt,35011,2018
+sa,South America,sacol,Colombia,col,32832,2018
+sa,South America,saarg,Argentina,arg,28505,2018
+af,Africa,afcmr,Cameroon,cmr,24598,2018
+af,Africa,afnga,Nigeria,nga,23950,2018
+as,Asia,asjpn,Japan,jpn,20469,2018
+eu,Europe,euprt,Portugal,prt,17544,2018
+eu,Europe,eubgr,Bulgaria,bgr,17253,2018
+as,Asia,assgp,Singapore,sgp,15934,2018
+af,Africa,afmdg,Madagascar,mdg,15220,2018
+eu,Europe,eulva,Latvia,lva,11557,2018
+oc,Oceania,ocaus,Australia,aus,9365,2018
+af,Africa,afzwe,Zimbabwe,zwe,7183,2018
+sa,South America,saper,Peru,per,5937,2018
+as,Asia,asare,United Arab Emirates,are,5263,2018
+na,North America,nagtm,Guatemala,gtm,4081,2018
+af,Africa,aftgo,Togo,tgo,3236,2018
+as,Asia,asgeo,Georgia,geo,2050,2018
+eu,Europe,eusvn,Slovenia,svn,1926,2018
+sa,South America,sabra,Brazil,bra,1784,2018
+eu,Europe,euirl,Ireland,irl,1540,2018
+eu,Europe,eurou,Romania,rou,1023,2018
+eu,Europe,euhrv,Croatia,hrv,971,2018
+as,Asia,asbrn,Brunei,brn,756,2018
+as,Asia,askor,South Korea,kor,545,2018
+af,Africa,afcod,Democratic Republic of the Congo,cod,497,2018
+eu,Europe,eufin,Finland,fin,350,2018
+eu,Europe,eumlt,Malta,mlt,273,2018
+as,Asia,asomn,Oman,omn,260,2018
+eu,Europe,euest,Estonia,est,234,2018
+as,Asia,asvnm,Vietnam,vnm,204,2018
+af,Africa,afgha,Ghana,gha,98,2018
+na,North America,navct,Saint Vincent and the Grenadines,vct,70,2018
+eu,Europe,eulux,Luxembourg,lux,41,2018
+as,Asia,asind,India,ind,40,2018
+eu,Europe,eunor,Norway,nor,38,2018
+af,Africa,afmwi,Malawi,mwi,28,2018
+as,Asia,ascyp,Cyprus,cyp,18,2018
+af,Africa,afnam,Namibia,nam,10,2018
+af,Africa,afmoz,Mozambique,moz,1,2018

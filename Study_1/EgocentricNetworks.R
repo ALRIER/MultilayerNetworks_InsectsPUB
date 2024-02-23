@@ -7,6 +7,7 @@ Ken <- subset(ExpImp, grepl("KEN", ExporterCode))
 Mex <- subset(ExpImp, grepl("MEX", ExporterCode))
 Zaf <- subset(ExpImp, grepl("ZAF", ExporterCode))
 
+library(igraph)
 int <- as.matrix(Col[1:2])
 net1 <- graph_from_edgelist(int, directed = FALSE)
 V(net1)$Country <- c(Col$ExporterCode[[1]], unique(Col$ImporterCode))
@@ -123,3 +124,8 @@ plot(net5,
      layout = layout_as_star,
      main = "Exports of edible insects from South Africa")
 dev.off()
+
+png("FS6.png", width = 3.5, height = 7, units = 'in', res = 300)
+plot(NULL, axes = FALSE, xlab = "", ylab = "", xlim = c(0,  2.5), ylim = c(0,  1))
+dev.off()
+

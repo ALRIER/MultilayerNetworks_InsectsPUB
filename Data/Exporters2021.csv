@@ -1,0 +1,97 @@
+Continent ID,Continent,Country ID,Country,ISO 3,Trade Value,Year
+eu,Europe,eunld,Netherlands,nld,55596522,2021
+eu,Europe,eubel,Belgium,bel,45691671,2021
+as,Asia,asisr,Israel,isr,17949388,2021
+eu,Europe,eugbr,United Kingdom,gbr,16194552,2021
+eu,Europe,euesp,Spain,esp,15570802,2021
+af,Africa,afmar,Morocco,mar,13796522,2021
+eu,Europe,eufra,France,fra,12278059,2021
+na,North America,nausa,United States,usa,11744651,2021
+af,Africa,afken,Kenya,ken,10072709,2021
+na,North America,nacan,Canada,can,7662711,2021
+eu,Europe,eudeu,Germany,deu,5795445,2021
+na,North America,namex,Mexico,mex,4583330,2021
+eu,Europe,euhun,Hungary,hun,3515573,2021
+eu,Europe,euita,Italy,ita,3062441,2021
+eu,Europe,eupol,Poland,pol,3037777,2021
+eu,Europe,euukr,Ukraine,ukr,3023276,2021
+eu,Europe,eudnk,Denmark,dnk,2842032,2021
+eu,Europe,euprt,Portugal,prt,2624253,2021
+eu,Europe,euche,Switzerland,che,2258495,2021
+na,North America,nacri,Costa Rica,cri,2105806,2021
+eu,Europe,eusvk,Slovakia,svk,1035221,2021
+as,Asia,astur,Turkey,tur,991396,2021
+eu,Europe,eugrc,Greece,grc,828369,2021
+af,Africa,afzaf,South Africa,zaf,733565,2021
+as,Asia,asidn,Indonesia,idn,629513,2021
+eu,Europe,eurus,Russia,rus,506470,2021
+sa,South America,saecu,Ecuador,ecu,494351,2021
+eu,Europe,eucze,Czechia,cze,380003,2021
+eu,Europe,euswe,Sweden,swe,327001,2021
+as,Asia,aschn,China,chn,281518,2021
+as,Asia,asphl,Philippines,phl,272131,2021
+as,Asia,astha,Thailand,tha,223767,2021
+oc,Oceania,ocaus,Australia,aus,208583,2021
+na,North America,nablz,Belize,blz,167737,2021
+sa,South America,sacol,Colombia,col,162210,2021
+sa,South America,saarg,Argentina,arg,159547,2021
+na,North America,naslv,El Salvador,slv,139804,2021
+as,Asia,asxxb,Chinese Taipei,,129480,2021
+eu,Europe,eublr,Belarus,blr,126171,2021
+eu,Europe,euaut,Austria,aut,121219,2021
+as,Asia,asmys,Malaysia,mys,117966,2021
+eu,Europe,eubgr,Bulgaria,bgr,90444,2021
+na,North America,nanic,Nicaragua,nic,84717,2021
+as,Asia,asvnm,Vietnam,vnm,62362,2021
+af,Africa,afegy,Egypt,egy,50076,2021
+eu,Europe,eunor,Norway,nor,46903,2021
+eu,Europe,eultu,Lithuania,ltu,46223,2021
+sa,South America,sasur,Suriname,sur,39715,2021
+eu,Europe,eufin,Finland,fin,36499,2021
+af,Africa,aftza,Tanzania,tza,32975,2021
+af,Africa,aftun,Tunisia,tun,21901,2021
+af,Africa,afnga,Nigeria,nga,19627,2021
+eu,Europe,euhrv,Croatia,hrv,18507,2021
+sa,South America,saper,Peru,per,18247,2021
+af,Africa,afeth,Ethiopia,eth,17950,2021
+as,Asia,asind,India,ind,16941,2021
+as,Asia,asjpn,Japan,jpn,15385,2021
+as,Asia,asirn,Iran,irn,12035,2021
+af,Africa,afbwa,Botswana,bwa,8342,2021
+af,Africa,aftgo,Togo,tgo,8011,2021
+eu,Europe,euirl,Ireland,irl,7433,2021
+na,North America,nagtm,Guatemala,gtm,5846,2021
+af,Africa,afzmb,Zambia,zmb,5635,2021
+sa,South America,sabra,Brazil,bra,5442,2021
+af,Africa,afgha,Ghana,gha,4590,2021
+eu,Europe,eusvn,Slovenia,svn,4304,2021
+eu,Europe,eulva,Latvia,lva,4206,2021
+af,Africa,afcmr,Cameroon,cmr,3642,2021
+eu,Europe,eubih,Bosnia and Herzegovina,bih,2676,2021
+eu,Europe,eumne,Montenegro,mne,2663,2021
+as,Asia,asuzb,Uzbekistan,uzb,2500,2021
+as,Asia,asare,United Arab Emirates,are,2456,2021
+sa,South America,saguy,Guyana,guy,2452,2021
+eu,Europe,eurou,Romania,rou,2017,2021
+as,Asia,ashkg,Hong Kong,hkg,1902,2021
+eu,Europe,euest,Estonia,est,1821,2021
+na,North America,nacub,Cuba,cub,1682,2021
+na,North America,natto,Trinidad and Tobago,tto,1374,2021
+af,Africa,afcod,Democratic Republic of the Congo,cod,1237,2021
+eu,Europe,eumlt,Malta,mlt,1117,2021
+as,Asia,assgp,Singapore,sgp,1049,2021
+af,Africa,afago,Angola,ago,701,2021
+af,Africa,afrwa,Rwanda,rwa,639,2021
+af,Africa,afmoz,Mozambique,moz,485,2021
+sa,South America,sachl,Chile,chl,305,2021
+oc,Oceania,ocnzl,New Zealand,nzl,245,2021
+af,Africa,afben,Benin,ben,237,2021
+as,Asia,asmng,Mongolia,mng,233,2021
+eu,Europe,eulux,Luxembourg,lux,227,2021
+as,Asia,askor,South Korea,kor,194,2021
+af,Africa,afsen,Senegal,sen,118,2021
+as,Asia,asqat,Qatar,qat,75,2021
+as,Asia,aslka,Sri Lanka,lka,54,2021
+af,Africa,afmus,Mauritius,mus,43,2021
+sa,South America,sapry,Paraguay,pry,20,2021
+as,Asia,askaz,Kazakhstan,kaz,11,2021

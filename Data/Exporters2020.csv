@@ -1,0 +1,83 @@
+Continent ID,Continent,Country ID,Country,ISO 3,Trade Value,Year
+eu,Europe,eubel,Belgium,bel,38366466,2020
+eu,Europe,eunld,Netherlands,nld,36207680,2020
+as,Asia,asisr,Israel,isr,14564700,2020
+af,Africa,afmar,Morocco,mar,13015246,2020
+eu,Europe,eugbr,United Kingdom,gbr,11158091,2020
+eu,Europe,euesp,Spain,esp,9901508,2020
+na,North America,nausa,United States,usa,8673997,2020
+af,Africa,afken,Kenya,ken,6734538,2020
+eu,Europe,eudeu,Germany,deu,6370798,2020
+na,North America,namex,Mexico,mex,5754284,2020
+eu,Europe,eudnk,Denmark,dnk,4334142,2020
+na,North America,nacan,Canada,can,4094413,2020
+eu,Europe,euita,Italy,ita,3765942,2020
+eu,Europe,euukr,Ukraine,ukr,2774526,2020
+eu,Europe,eupol,Poland,pol,2516410,2020
+eu,Europe,euhun,Hungary,hun,2057038,2020
+eu,Europe,euprt,Portugal,prt,1909474,2020
+na,North America,nacri,Costa Rica,cri,1790235,2020
+eu,Europe,eufra,France,fra,1746355,2020
+eu,Europe,euche,Switzerland,che,1417308,2020
+eu,Europe,eusvk,Slovakia,svk,899788,2020
+as,Asia,astur,Turkey,tur,801574,2020
+eu,Europe,eurus,Russia,rus,766833,2020
+as,Asia,astha,Thailand,tha,436515,2020
+af,Africa,afzaf,South Africa,zaf,341071,2020
+sa,South America,saecu,Ecuador,ecu,284150,2020
+eu,Europe,eugrc,Greece,grc,275301,2020
+eu,Europe,euswe,Sweden,swe,240352,2020
+as,Asia,asmys,Malaysia,mys,201172,2020
+eu,Europe,eucze,Czechia,cze,188946,2020
+as,Asia,asidn,Indonesia,idn,187735,2020
+as,Asia,aschn,China,chn,165737,2020
+na,North America,nablz,Belize,blz,160138,2020
+as,Asia,asphl,Philippines,phl,110918,2020
+sa,South America,saarg,Argentina,arg,97856,2020
+as,Asia,asvnm,Vietnam,vnm,96376,2020
+na,North America,naslv,El Salvador,slv,91150,2020
+eu,Europe,eublr,Belarus,blr,78477,2020
+as,Asia,asxxb,Chinese Taipei,,77192,2020
+eu,Europe,eubgr,Bulgaria,bgr,75719,2020
+eu,Europe,euaut,Austria,aut,73862,2020
+af,Africa,aftun,Tunisia,tun,68379,2020
+na,North America,nanic,Nicaragua,nic,65782,2020
+eu,Europe,eunor,Norway,nor,44232,2020
+sa,South America,sasur,Suriname,sur,41101,2020
+oc,Oceania,ocaus,Australia,aus,40828,2020
+af,Africa,afegy,Egypt,egy,39836,2020
+sa,South America,sacol,Colombia,col,37002,2020
+eu,Europe,eumne,Montenegro,mne,17635,2020
+eu,Europe,eultu,Lithuania,ltu,16657,2020
+sa,South America,sabra,Brazil,bra,10065,2020
+eu,Europe,eulva,Latvia,lva,9292,2020
+eu,Europe,eufin,Finland,fin,9131,2020
+af,Africa,aftgo,Togo,tgo,8074,2020
+sa,South America,saper,Peru,per,5710,2020
+af,Africa,afnga,Nigeria,nga,5271,2020
+as,Asia,askor,South Korea,kor,5123,2020
+af,Africa,afgha,Ghana,gha,4069,2020
+eu,Europe,euirl,Ireland,irl,3025,2020
+as,Asia,asjpn,Japan,jpn,2602,2020
+na,North America,nagtm,Guatemala,gtm,2601,2020
+sa,South America,saguy,Guyana,guy,2308,2020
+eu,Europe,eubih,Bosnia and Herzegovina,bih,2278,2020
+af,Africa,afcmr,Cameroon,cmr,1907,2020
+af,Africa,afcod,Democratic Republic of the Congo,cod,1154,2020
+as,Asia,askwt,Kuwait,kwt,1074,2020
+as,Asia,asare,United Arab Emirates,are,1049,2020
+af,Africa,afmdg,Madagascar,mdg,965,2020
+eu,Europe,euhrv,Croatia,hrv,521,2020
+as,Asia,ashkg,Hong Kong,hkg,408,2020
+eu,Europe,eumlt,Malta,mlt,354,2020
+af,Africa,aftza,Tanzania,tza,321,2020
+eu,Europe,eusvn,Slovenia,svn,254,2020
+as,Asia,asjor,Jordan,jor,231,2020
+as,Asia,assgp,Singapore,sgp,221,2020
+as,Asia,asind,India,ind,171,2020
+eu,Europe,eulux,Luxembourg,lux,132,2020
+as,Asia,askhm,Cambodia,khm,70,2020
+as,Asia,ascyp,Cyprus,cyp,63,2020
+eu,Europe,eurou,Romania,rou,50,2020
+eu,Europe,euest,Estonia,est,42,2020
+eu,Europe,eusrb,Serbia,srb,5,2020

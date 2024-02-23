@@ -1,0 +1,50 @@
+Exporter,Continent,Continent ID,Country,Country ID,ISO 3,Trade Value,Year
+KEN,Africa,af,Uganda,afuga,uga,196249,2018
+KEN,Africa,af,South Africa,afzaf,zaf,297422,2018
+KEN,Africa,af,Zambia,afzmb,zmb,8757,2018
+KEN,Europe,eu,Austria,euaut,aut,170,2018
+KEN,Europe,eu,United Kingdom,eugbr,gbr,810546,2018
+KEN,Europe,eu,Italy,euita,ita,220870,2018
+KEN,Europe,eu,Netherlands,eunld,nld,250671,2018
+KEN,Europe,eu,Russia,eurus,rus,1040,2018
+KEN,North America,na,Canada,nacan,can,47224,2018
+KEN,North America,na,United States,nausa,usa,627955,2018
+KEN,Africa,af,Ethiopia,afeth,eth,2336513,2019
+KEN,Africa,af,Uganda,afuga,uga,282180,2019
+KEN,Africa,af,South Africa,afzaf,zaf,350963,2019
+KEN,Africa,af,Zimbabwe,afzwe,zwe,241231,2019
+KEN,Europe,eu,Belgium,eubel,bel,77013,2019
+KEN,Europe,eu,United Kingdom,eugbr,gbr,519347,2019
+KEN,Europe,eu,Italy,euita,ita,283388,2019
+KEN,Europe,eu,Netherlands,eunld,nld,152975,2019
+KEN,Europe,eu,Russia,eurus,rus,208,2019
+KEN,North America,na,Canada,nacan,can,274213,2019
+KEN,North America,na,United States,nausa,usa,284010,2019
+KEN,Africa,af,Ethiopia,afeth,eth,2120490,2020
+KEN,Africa,af,Uganda,afuga,uga,28903,2020
+KEN,Africa,af,South Africa,afzaf,zaf,1453088,2020
+KEN,Africa,af,Zimbabwe,afzwe,zwe,282286,2020
+KEN,Europe,eu,Belgium,eubel,bel,1428656,2020
+KEN,Europe,eu,France,eufra,fra,143492,2020
+KEN,Europe,eu,United Kingdom,eugbr,gbr,1640781,2020
+KEN,Europe,eu,Italy,euita,ita,176249,2020
+KEN,Europe,eu,Netherlands,eunld,nld,190340,2020
+KEN,North America,na,Canada,nacan,can,124700,2020
+KEN,North America,na,United States,nausa,usa,259903,2020
+KEN,Africa,af,Democratic Republic of the Congo,afcod,cod,177456,2021
+KEN,Africa,af,Ethiopia,afeth,eth,3150848,2021
+KEN,Africa,af,Malawi,afmwi,mwi,1116,2021
+KEN,Africa,af,Uganda,afuga,uga,3519,2021
+KEN,Africa,af,South Africa,afzaf,zaf,278705,2021
+KEN,Africa,af,Zimbabwe,afzwe,zwe,209855,2021
+KEN,Asia,as,Turkey,astur,tur,912,2021
+KEN,Europe,eu,Belgium,eubel,bel,2054285,2021
+KEN,Europe,eu,Denmark,eudnk,dnk,3087,2021
+KEN,Europe,eu,Spain,euesp,esp,49585,2021
+KEN,Europe,eu,Finland,eufin,fin,5,2021
+KEN,Europe,eu,France,eufra,fra,7205,2021
+KEN,Europe,eu,United Kingdom,eugbr,gbr,1705942,2021
+KEN,Europe,eu,Italy,euita,ita,289469,2021
+KEN,Europe,eu,Netherlands,eunld,nld,1169801,2021
+KEN,North America,na,Canada,nacan,can,261804,2021
+KEN,North America,na,United States,nausa,usa,685418,2021

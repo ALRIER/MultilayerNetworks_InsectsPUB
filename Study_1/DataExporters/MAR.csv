@@ -1,0 +1,25 @@
+Exporter,Continent,Continent ID,Country,Country ID,ISO 3,Trade Value,Year
+MAR,Asia,as,Japan,asjpn,jpn,36,2018
+MAR,Europe,eu,Belgium,eubel,bel,9361997,2018
+MAR,Europe,eu,Spain,euesp,esp,154711,2018
+MAR,Europe,eu,France,eufra,fra,50,2018
+MAR,Europe,eu,Netherlands,eunld,nld,7903,2018
+MAR,Asia,as,Japan,asjpn,jpn,2568,2019
+MAR,Europe,eu,Belgium,eubel,bel,10767847,2019
+MAR,Europe,eu,Spain,euesp,esp,194790,2019
+MAR,Europe,eu,France,eufra,fra,62,2019
+MAR,Europe,eu,United Kingdom,eugbr,gbr,8014,2019
+MAR,Europe,eu,Netherlands,eunld,nld,178777,2019
+MAR,Asia,as,Japan,asjpn,jpn,2648,2020
+MAR,Europe,eu,Belgium,eubel,bel,12081482,2020
+MAR,Europe,eu,Spain,euesp,esp,28365,2020
+MAR,Europe,eu,France,eufra,fra,740055,2020
+MAR,Europe,eu,United Kingdom,eugbr,gbr,34495,2020
+MAR,Europe,eu,Netherlands,eunld,nld,255999,2020
+MAR,Africa,af,Senegal,afsen,sen,32463,2021
+MAR,Asia,as,Japan,asjpn,jpn,2469,2021
+MAR,Europe,eu,Belgium,eubel,bel,12570112,2021
+MAR,Europe,eu,Spain,euesp,esp,304487,2021
+MAR,Europe,eu,France,eufra,fra,10375,2021
+MAR,Europe,eu,United Kingdom,eugbr,gbr,93,2021
+MAR,Europe,eu,Netherlands,eunld,nld,991273,2021

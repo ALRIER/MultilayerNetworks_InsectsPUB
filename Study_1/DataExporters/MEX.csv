@@ -1,0 +1,21 @@
+Exporter,Continent,Continent ID,Country,Country ID,ISO 3,Trade Value,Year
+MEX,North America,na,Canada,nacan,can,1358006,2018
+MEX,North America,na,Costa Rica,nacri,cri,43478,2018
+MEX,North America,na,Guatemala,nagtm,gtm,1709,2018
+MEX,North America,na,Honduras,nahnd,hnd,625,2018
+MEX,North America,na,United States,nausa,usa,952880,2018
+MEX,Europe,eu,Netherlands,eunld,nld,10716,2019
+MEX,North America,na,Canada,nacan,can,3629438,2019
+MEX,North America,na,Costa Rica,nacri,cri,47352,2019
+MEX,North America,na,Dominican Republic,nadom,dom,9921,2019
+MEX,North America,na,United States,nausa,usa,1218055,2019
+MEX,Europe,eu,Germany,eudeu,deu,1692,2020
+MEX,Europe,eu,Netherlands,eunld,nld,6699,2020
+MEX,North America,na,Canada,nacan,can,5196835,2020
+MEX,North America,na,Costa Rica,nacri,cri,34624,2020
+MEX,North America,na,United States,nausa,usa,951341,2020
+MEX,Europe,eu,Belgium,eubel,bel,37,2021
+MEX,Europe,eu,Netherlands,eunld,nld,156421,2021
+MEX,North America,na,Canada,nacan,can,3317204,2021
+MEX,North America,na,Costa Rica,nacri,cri,37258,2021
+MEX,North America,na,United States,nausa,usa,1139572,2021

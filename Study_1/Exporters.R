@@ -21,3 +21,7 @@ for (file in myfiles) {
 Top10Exporters <- list(BEL, CAN, COL, ECU, ISR, KEN, MAR, MEX, NDL, USA)
 Exporters <- do.call("rbind", Top10Exporters)
 rm(list=setdiff(ls(), "Exporters"))
+
+DETAILED <- read_csv("DETAILED.csv")
+library(dplyr)
+DETAILFILTERED <- DETAILED %>% filter(, grepl('1010649', DETAILED$`HS6 ID`))

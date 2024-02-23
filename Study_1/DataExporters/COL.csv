@@ -1,0 +1,14 @@
+Exporter,Continent,Continent ID,Country,Country ID,ISO 3,Trade Value,Year
+COL,Asia,as,United Arab Emirates,asare,are,16553,2018
+COL,Europe,eu,Austria,euaut,aut,227,2018
+COL,North America,na,United States,nausa,usa,15297,2018
+COL,Asia,as,United Arab Emirates,asare,are,12859,2019
+COL,Europe,eu,United Kingdom,eugbr,gbr,7236,2019
+COL,North America,na,United States,nausa,usa,62145,2019
+COL,Asia,as,United Arab Emirates,asare,are,9799,2020
+COL,Europe,eu,Germany,eudeu,deu,23722,2020
+COL,North America,na,United States,nausa,usa,3481,2020
+COL,Asia,as,India,asind,ind,304,2021
+COL,Asia,as,Japan,asjpn,jpn,1500,2021
+COL,Europe,eu,Germany,eudeu,deu,158423,2021
+COL,North America,na,Canada,nacan,can,1892,2021

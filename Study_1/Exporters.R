@@ -1,0 +1,10 @@
+library(readr)
+Exporters2017 <- read_csv("Data/Exporters2017.csv")
+Exporters2018 <- read_csv("Data/Exporters2018.csv")
+Exporters2019 <- read_csv("Data/Exporters2019.csv")
+Exporters2020 <- read_csv("Data/Exporters2020.csv")
+Exporters2021 <- read_csv("Data/Exporters2021.csv")
+
+Exporters <- list(Exporters2017, Exporters2018, Exporters2019, Exporters2020, Exporters2021)
+Exporters <- do.call("rbind", Exporters)
+rm(list=setdiff(ls(), "Exporters"))

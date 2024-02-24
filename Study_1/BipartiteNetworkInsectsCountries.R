@@ -23,7 +23,7 @@ layout <- layout_as_bipartite(bn)
 rotated_layout <- cbind(layout[, 2], -layout[, 1])
 
 
-png("FS1.png", width = 7, height = 7, units = 'in', res = 300)
+png("FS1B.png", width = 7, height = 7, units = 'in', res = 300)
 plot(bn, vertex.label = V(bn)$name, layout = rotated_layout, main = "",
      vertex.size = V(bn)$size,
      vertex.label.color = V(bn)$labelcolor, edge.lty = E(bn)$linetype, vertex.shape = V(bn)$shape,

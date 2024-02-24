@@ -1,59 +1,40 @@
-library(readr)
-paisesinsectos <- read_csv("Data/paisesinsectos.csv")
-# Remove brackets and single quotes from the "Country" column
-paisesinsectos$Country <- gsub("\\[|\\]|'", "", paisesinsectos$Country)
+load("Data/EdibleInsectsList.RData")
+colnames(EI)[7] <- "Country"
+variable.names(EI)
 
-library(tidyverse)
-# Split the "Country" column into multiple rows
-paisesinsectos <- separate_rows(paisesinsectos, Country, sep = ",")
-paisesinsectos$Country <- trimws(paisesinsectos$Country)
-paisesinsectos <- subset(paisesinsectos, nchar(Country) >  0)
-unique_countries <- unique(paisesinsectos$Country)
+EI <- EI[c(3,7)]
+
+library(dplyr)
+library(tidyr)
+EI <- EI %>%
+  mutate(Country = str_extract(Country, "\\b\\w+\\b")) %>%
+  na.omit()
+
+library(countrycode)
+
+EI$country_code <- countrycode(EI$Country, "country.name", "iso2c")
+EI <- na.omit(EI)
+EI$Continent <- countrycode(EI$country_code, "iso2c", "continent")
 
 
 library(igraph)
-bn <- graph_from_data_frame(paisesinsectos, directed = FALSE)
+bn <- graph_from_data_frame(EI[c(1,4)], directed = FALSE)
+pave <- as.matrix(bn)
 V(bn)$type <- bipartite_mapping(bn)$type
-country_colors <- rainbow(length(unique(paisesinsectos$Country)))
-
-#png("F1.png", width = 10, height = 10, units = 'in', res = 300)
-set.seed(1510)
-plot(bn,   
-     vertex.color = country_colors,   
-     vertex.size =   2,   
-     vertex.label = NA,   
-     edge.color = "lightgray",   
-     edge.width =   1,
-     layout = layout_components(bn))
-#dev.off()
-
-
-
-
-FamilyCountry <- paisesinsectos[c(2,3)]
-library(countrycode)
-
-FamilyCountry$country_code <- countrycode(FamilyCountry$Country, "country.name", "iso2c")
-
-# Convert country codes to continent names
-FamilyCountry$Continent <- countrycode(FamilyCountry$country_code, "iso2c", "continent")
-
-FamilyContinent <- FamilyCountry[c(1,4)]
-bn2 <- graph_from_data_frame(FamilyContinent, directed = FALSE)
-V(bn2)$type <- bipartite_mapping(bn2)$type
-V(bn2)$shape <- ifelse(V(bn2)$type, "square", "circle")
-table(FamilyContinent$Continent)
+V(bn)$shape <- ifelse(V(bn)$type, "square", "circle")
+V(bn)$labelcolor <- ifelse(V(bn)$type == TRUE, "black", "none")
+table(EI$Continent)
 
 set.seed(1510)
 png("FS1A.png", width = 10, height = 10, units = 'in', res = 300)
-plot(bn2,   
-     vertex.color = ifelse(V(bn2)$type == FALSE, "green4", c("yellow3", "brown", "blue4")),  
-     vertex.size =   7,   
-     vertex.shape = V(bn2)$shape,
-     vertex.label = NA,   
+plot(bn,   
+     vertex.color = ifelse(V(bn)$type == FALSE, "green4", c("black", "red", "yellow3", "brown", "blue4")),  
+     vertex.size =   5,   
+     vertex.shape = V(bn)$shape,
+     vertex.label.color = V(bn)$labelcolor,
      edge.color = "lightgray",   
      edge.width =   1,
-     layout = layout_components(bn2))
+     layout = layout_with_fr(bn))
 dev.off()
 
 library(rgexf)

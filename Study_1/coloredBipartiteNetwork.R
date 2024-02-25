@@ -71,6 +71,14 @@ plot(bn,
      edge.width =   1,
      layout = layout_as_bipartite(bn))
 
+Degree <- igraph::degree(bn)
+Betweenness  <-  igraph::betweenness(bn)
+Closeness <-  igraph::closeness(bn)
+Eigen <-  igraph::eigen_centrality(bn)$vector
+
+
+Centralities <- head(data.frame(Degree, Betweenness, Closeness, Eigen), 14)
+
 
 adjacency_matrix <- get.adjacency(bn, sparse = FALSE)
 ncol(adjacency_matrix)
@@ -104,7 +112,7 @@ plotweb(am3, method = "normal",
 dev.off()
 
 
-
+save.image("Study_1/Study1A.RData")
 
 
 

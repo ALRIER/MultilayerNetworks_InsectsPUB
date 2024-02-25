@@ -54,23 +54,36 @@ EIc <- EIp %>%
   mutate(country = str_extract(Country, "\\b\\w+\\b")) %>% na.omit()
 table(EIc$CommonName)
 
+EIn <- subset(EIc, grepl("Africa|Americas|Asia", Continent))
+EIn <- EIn[c(3,4)]
+
+EIna <- EIn[!duplicated(EIn), ]
+
+table(EIna$country_code) == table(EIn$country_code)
+
 library(igraph)
-bn <- graph_from_data_frame(EIc[c(1,4)], directed = FALSE)
+bn <- graph_from_data_frame(EIna, directed = FALSE)
 V(bn)$type <- bipartite_mapping(bn)$type
-V(bn)$shape <- ifelse(V(bn)$type, "square", "circle")
-V(bn)$labelcolor <- ifelse(V(bn)$type == TRUE, "black", "none")
+V(bn)$labelcolor <- ifelse(V(bn)$type == FALSE, "black", c("chocolate4", "red",  "gold2"))
+V(bn)$betweenness <- igraph::betweenness(bn)
 table(EI$Continent)
 
+# Figure2A (Published) ----
 set.seed(1510)
+layout <- layout_components(bn)
+rotated_layout <- cbind(-layout[, 2], layout[, 1])
+png("FS1B.png", width = 6, height = 6, units = 'in', res = 300)
 plot(bn,   
-     vertex.color = ifelse(V(bn)$type == FALSE, "green4", c("black", "red", "yellow3", "brown", "blue4")),  
-     vertex.size =   5,   
-     vertex.shape = V(bn)$shape,
-     vertex.label.color = V(bn)$labelcolor,
-     edge.color = "lightgray",   
+     vertex.color = ifelse(V(bn)$type == FALSE, "black", c("chocolate4", "red",  "gold2")),  
+     vertex.size =   25,   
+     vertex.shape = ifelse(V(bn)$type == FALSE, "none", "circle"),
+     vertex.label.color = ifelse(V(bn)$type == FALSE, "black", "black"),
+     vertex.label.size = V(bn)$betweenness,
+     edge.color = "black",   
      edge.width =   1,
-     layout = layout_as_bipartite(bn))
-
+     layout = layout)
+dev.off()
+# Veamos------
 Degree <- igraph::degree(bn)
 Betweenness  <-  igraph::betweenness(bn)
 Closeness <-  igraph::closeness(bn)
@@ -86,6 +99,8 @@ AM <- adjacency_matrix[1:19, (ncol(adjacency_matrix) - 4):ncol(adjacency_matrix)
 am <- data.frame(AM)
 am2 <- am[, c(4, 3, 1, 2, 5)]
 am3 <- am[, c(5, 2, 1, 3, 4)]
+
+# Figure 2A (Published Figure) ----
 
 library(bipartite)
 png("FS1A.png", width = 25, height = 10, units = 'in', res = 300)

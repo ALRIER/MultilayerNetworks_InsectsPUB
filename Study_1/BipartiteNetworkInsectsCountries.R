@@ -13,9 +13,22 @@ Edibles <- EdibleSpecies %>% mutate(., Importance = ifelse(grepl("Moth", CommonN
                                                     ifelse(grepl("Flies", CommonName), Centralities$Eigen[5],
                                                                   median(Centralities$Eigen))))))))))
 
+# Figure Nutritional Value----
 library(ggplot2)
-ggplot(Edibles, aes(x=Energy, y=Protein, color=CommonName)) +
-  geom_point(aes(size = Importance), alpha = 0.7) + theme_minimal()
+png("FS1C.png", width = 10, height = 7, units = 'in', res = 300)
+ggplot(Edibles, aes(x=Energy, y=Protein, color=Country)) +
+  geom_point(aes(size = Protein*2), alpha =   0.7) +
+  geom_text(aes(x=Energy, label=Country), size=4, hjust=0) +
+  theme_light() +
+  theme(axis.text.x = element_text(size =   15, color = "black"),
+        axis.text.y = element_text(size =   15, color = "black"),
+        axis.title.x = element_text(size =   15),  
+        axis.title.y = element_text(size =   15),
+        legend.position = "none") + # Remove legends
+  xlab("Energy (kcal/100g)") +  
+  ylab("Protein value (% w/w)")
+dev.off()
+
 
 
 

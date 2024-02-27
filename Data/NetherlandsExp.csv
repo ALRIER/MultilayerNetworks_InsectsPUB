@@ -1,0 +1,278 @@
+Exporter,"Continent","Continent ID","Country","Country ID","ISO 3","Trade Value","Year"
+Netherlands,"Africa","af",'"Cote d''Ivoire"',"afciv","civ",579,2018
+Netherlands,"Africa","af","Egypt","afegy","egy",2264,2018
+Netherlands,"Africa","af","Kenya","afken","ken",570673,2018
+Netherlands,"Africa","af","Morocco","afmar","mar",348570,2018
+Netherlands,"Africa","af","Senegal","afsen","sen",59369,2018
+Netherlands,"Africa","af","Tunisia","aftun","tun",153972,2018
+Netherlands,"Africa","af","Uganda","afuga","uga",26312,2018
+Netherlands,"Africa","af","South Africa","afzaf","zaf",386433,2018
+Netherlands,"Africa","af","Zimbabwe","afzwe","zwe",6725,2018
+Netherlands,"Asia","as","United Arab Emirates","asare","are",102145,2018
+Netherlands,"Asia","as","Armenia","asarm","arm",116600,2018
+Netherlands,"Asia","as","Azerbaijan","asaze","aze",28557,2018
+Netherlands,"Asia","as","Bahrain","asbhr","bhr",2042,2018
+Netherlands,"Asia","as","Cyprus","ascyp","cyp",24,2018
+Netherlands,"Asia","as","Georgia","asgeo","geo",2289,2018
+Netherlands,"Asia","as","India","asind","ind",89,2018
+Netherlands,"Asia","as","Iran","asirn","irn",107594,2018
+Netherlands,"Asia","as","Israel","asisr","isr",118966,2018
+Netherlands,"Asia","as","Jordan","asjor","jor",18674,2018
+Netherlands,"Asia","as","Japan","asjpn","jpn",1154341,2018
+Netherlands,"Asia","as","Kazakhstan","askaz","kaz",14819,2018
+Netherlands,"Asia","as","South Korea","askor","kor",978387,2018
+Netherlands,"Asia","as","Lebanon","aslbn","lbn",1827,2018
+Netherlands,"Asia","as","Sri Lanka","aslka","lka",61,2018
+Netherlands,"Asia","as","Malaysia","asmys","mys",468,2018
+Netherlands,"Asia","as","Oman","asomn","omn",1852,2018
+Netherlands,"Asia","as","Saudi Arabia","assau","sau",32574,2018
+Netherlands,"Asia","as","Turkey","astur","tur",439213,2018
+Netherlands,"Asia","as","Vietnam","asvnm","vnm",13269,2018
+Netherlands,"Europe","eu","Albania","eualb","alb",932,2018
+Netherlands,"Europe","eu","Austria","euaut","aut",2980,2018
+Netherlands,"Europe","eu","Belgium","eubel","bel",2875444,2018
+Netherlands,"Europe","eu","Bulgaria","eubgr","bgr",29062,2018
+Netherlands,"Europe","eu","Switzerland","euche","che",17727,2018
+Netherlands,"Europe","eu","Czechia","eucze","cze",660273,2018
+Netherlands,"Europe","eu","Germany","eudeu","deu",806300,2018
+Netherlands,"Europe","eu","Denmark","eudnk","dnk",446675,2018
+Netherlands,"Europe","eu","Spain","euesp","esp",316001,2018
+Netherlands,"Europe","eu","Estonia","euest","est",1,2018
+Netherlands,"Europe","eu","Finland","eufin","fin",212348,2018
+Netherlands,"Europe","eu","France","eufra","fra",2862936,2018
+Netherlands,"Europe","eu","United Kingdom","eugbr","gbr",1309533,2018
+Netherlands,"Europe","eu","Greece","eugrc","grc",2527,2018
+Netherlands,"Europe","eu","Croatia","euhrv","hrv",89,2018
+Netherlands,"Europe","eu","Hungary","euhun","hun",7,2018
+Netherlands,"Europe","eu","Ireland","euirl","irl",22,2018
+Netherlands,"Europe","eu","Iceland","euisl","isl",299217,2018
+Netherlands,"Europe","eu","Italy","euita","ita",5064561,2018
+Netherlands,"Europe","eu","Lithuania","eultu","ltu",4274,2018
+Netherlands,"Europe","eu","Moldova","eumda","mda",3683,2018
+Netherlands,"Europe","eu","North Macedonia","eumkd","mkd",6781,2018
+Netherlands,"Europe","eu","Malta","eumlt","mlt",27,2018
+Netherlands,"Europe","eu","Norway","eunor","nor",458072,2018
+Netherlands,"Europe","eu","Poland","eupol","pol",13884,2018
+Netherlands,"Europe","eu","Portugal","euprt","prt",107,2018
+Netherlands,"Europe","eu","Romania","eurou","rou",5,2018
+Netherlands,"Europe","eu","Russia","eurus","rus",1906872,2018
+Netherlands,"Europe","eu","Slovakia","eusvk","svk",2766,2018
+Netherlands,"Europe","eu","Slovenia","eusvn","svn",50969,2018
+Netherlands,"Europe","eu","Sweden","euswe","swe",6052,2018
+Netherlands,"Europe","eu","Ukraine","euukr","ukr",567175,2018
+Netherlands,"North America","na","Canada","nacan","can",6222375,2018
+Netherlands,"North America","na","Costa Rica","nacri","cri",126385,2018
+Netherlands,"North America","na","Dominican Republic","nadom","dom",1341,2018
+Netherlands,"North America","na","Guatemala","nagtm","gtm",146975,2018
+Netherlands,"North America","na","Honduras","nahnd","hnd",540,2018
+Netherlands,"North America","na","Mexico","namex","mex",3766217,2018
+Netherlands,"North America","na","El Salvador","naslv","slv",6159,2018
+Netherlands,"North America","na","United States","nausa","usa",220613,2018
+Netherlands,"Oceania","oc","Australia","ocaus","aus",15072,2018
+Netherlands,"Oceania","oc","New Zealand","ocnzl","nzl",2266,2018
+Netherlands,"South America","sa","Brazil","sabra","bra",74671,2018
+Netherlands,"South America","sa","Chile","sachl","chl",150289,2018
+Netherlands,"South America","sa","Colombia","sacol","col",584,2018
+Netherlands,"South America","sa","Ecuador","saecu","ecu",169264,2018
+Netherlands,"South America","sa","Peru","saper","per",1889,2018
+Netherlands,"Africa","af","Egypt","afegy","egy",1912,2019
+Netherlands,"Africa","af","Kenya","afken","ken",37335,2019
+Netherlands,"Africa","af","Morocco","afmar","mar",332240,2019
+Netherlands,"Africa","af","Senegal","afsen","sen",39467,2019
+Netherlands,"Africa","af","Tunisia","aftun","tun",193489,2019
+Netherlands,"Africa","af","Uganda","afuga","uga",14944,2019
+Netherlands,"Africa","af","South Africa","afzaf","zaf",456255,2019
+Netherlands,"Asia","as","United Arab Emirates","asare","are",61055,2019
+Netherlands,"Asia","as","Armenia","asarm","arm",135037,2019
+Netherlands,"Asia","as","Azerbaijan","asaze","aze",69421,2019
+Netherlands,"Asia","as","Bahrain","asbhr","bhr",5028,2019
+Netherlands,"Asia","as","Brunei","asbrn","brn",1578,2019
+Netherlands,"Asia","as","Cyprus","ascyp","cyp",10,2019
+Netherlands,"Asia","as","Georgia","asgeo","geo",3506,2019
+Netherlands,"Asia","as","Israel","asisr","isr",22000,2019
+Netherlands,"Asia","as","Jordan","asjor","jor",7672,2019
+Netherlands,"Asia","as","Japan","asjpn","jpn",1210586,2019
+Netherlands,"Asia","as","South Korea","askor","kor",977545,2019
+Netherlands,"Asia","as","Lebanon","aslbn","lbn",715,2019
+Netherlands,"Asia","as","Oman","asomn","omn",36773,2019
+Netherlands,"Asia","as","Qatar","asqat","qat",12306,2019
+Netherlands,"Asia","as","Saudi Arabia","assau","sau",11065,2019
+Netherlands,"Asia","as","Turkey","astur","tur",365750,2019
+Netherlands,"Asia","as","Vietnam","asvnm","vnm",3595,2019
+Netherlands,"Europe","eu","Austria","euaut","aut",8365,2019
+Netherlands,"Europe","eu","Belgium","eubel","bel",6570522,2019
+Netherlands,"Europe","eu","Bulgaria","eubgr","bgr",9313,2019
+Netherlands,"Europe","eu","Switzerland","euche","che",50382,2019
+Netherlands,"Europe","eu","Czechia","eucze","cze",580922,2019
+Netherlands,"Europe","eu","Germany","eudeu","deu",1842880,2019
+Netherlands,"Europe","eu","Denmark","eudnk","dnk",362651,2019
+Netherlands,"Europe","eu","Spain","euesp","esp",237425,2019
+Netherlands,"Europe","eu","Estonia","euest","est",982,2019
+Netherlands,"Europe","eu","Finland","eufin","fin",104588,2019
+Netherlands,"Europe","eu","France","eufra","fra",1098156,2019
+Netherlands,"Europe","eu","United Kingdom","eugbr","gbr",1643096,2019
+Netherlands,"Europe","eu","Greece","eugrc","grc",7534,2019
+Netherlands,"Europe","eu","Croatia","euhrv","hrv",37,2019
+Netherlands,"Europe","eu","Hungary","euhun","hun",1727,2019
+Netherlands,"Europe","eu","Ireland","euirl","irl",3,2019
+Netherlands,"Europe","eu","Iceland","euisl","isl",251367,2019
+Netherlands,"Europe","eu","Italy","euita","ita",5399053,2019
+Netherlands,"Europe","eu","Lithuania","eultu","ltu",9703,2019
+Netherlands,"Europe","eu","Latvia","eulva","lva",5723,2019
+Netherlands,"Europe","eu","Moldova","eumda","mda",6840,2019
+Netherlands,"Europe","eu","North Macedonia","eumkd","mkd",1121,2019
+Netherlands,"Europe","eu","Malta","eumlt","mlt",7049,2019
+Netherlands,"Europe","eu","Norway","eunor","nor",171377,2019
+Netherlands,"Europe","eu","Poland","eupol","pol",604635,2019
+Netherlands,"Europe","eu","Portugal","euprt","prt",210,2019
+Netherlands,"Europe","eu","Russia","eurus","rus",1144332,2019
+Netherlands,"Europe","eu","Slovakia","eusvk","svk",5742,2019
+Netherlands,"Europe","eu","Slovenia","eusvn","svn",58938,2019
+Netherlands,"Europe","eu","Sweden","euswe","swe",3561,2019
+Netherlands,"Europe","eu","Ukraine","euukr","ukr",298596,2019
+Netherlands,"North America","na","Canada","nacan","can",11287292,2019
+Netherlands,"North America","na","Costa Rica","nacri","cri",162038,2019
+Netherlands,"North America","na","Dominican Republic","nadom","dom",6781,2019
+Netherlands,"North America","na","Guatemala","nagtm","gtm",130502,2019
+Netherlands,"North America","na","Honduras","nahnd","hnd",7689,2019
+Netherlands,"North America","na","Mexico","namex","mex",3769605,2019
+Netherlands,"North America","na","El Salvador","naslv","slv",33169,2019
+Netherlands,"North America","na","United States","nausa","usa",794459,2019
+Netherlands,"Oceania","oc","New Zealand","ocnzl","nzl",11885,2019
+Netherlands,"South America","sa","Brazil","sabra","bra",26601,2019
+Netherlands,"South America","sa","Chile","sachl","chl",23829,2019
+Netherlands,"South America","sa","Ecuador","saecu","ecu",84998,2019
+Netherlands,"South America","sa","Peru","saper","per",678,2019
+Netherlands,"South America","sa","Paraguay","sapry","pry",56,2019
+Netherlands,"Africa","af","Egypt","afegy","egy",2475,2020
+Netherlands,"Africa","af","Ethiopia","afeth","eth",56905,2020
+Netherlands,"Africa","af","Kenya","afken","ken",145548,2020
+Netherlands,"Africa","af","Morocco","afmar","mar",92512,2020
+Netherlands,"Africa","af","Senegal","afsen","sen",5437,2020
+Netherlands,"Africa","af","Tunisia","aftun","tun",202021,2020
+Netherlands,"Africa","af","Tanzania","aftza","tza",4596,2020
+Netherlands,"Africa","af","Uganda","afuga","uga",8427,2020
+Netherlands,"Africa","af","South Africa","afzaf","zaf",305479,2020
+Netherlands,"Asia","as","United Arab Emirates","asare","are",96312,2020
+Netherlands,"Asia","as","Armenia","asarm","arm",144525,2020
+Netherlands,"Asia","as","Azerbaijan","asaze","aze",5677,2020
+Netherlands,"Asia","as","Bahrain","asbhr","bhr",4244,2020
+Netherlands,"Asia","as","Cyprus","ascyp","cyp",15,2020
+Netherlands,"Asia","as","Georgia","asgeo","geo",9988,2020
+Netherlands,"Asia","as","Jordan","asjor","jor",280,2020
+Netherlands,"Asia","as","Japan","asjpn","jpn",1858045,2020
+Netherlands,"Asia","as","South Korea","askor","kor",734463,2020
+Netherlands,"Asia","as","Sri Lanka","aslka","lka",27,2020
+Netherlands,"Asia","as","Malaysia","asmys","mys",1286,2020
+Netherlands,"Asia","as","Oman","asomn","omn",18167,2020
+Netherlands,"Asia","as","Saudi Arabia","assau","sau",504,2020
+Netherlands,"Asia","as","Turkey","astur","tur",168016,2020
+Netherlands,"Europe","eu","Austria","euaut","aut",31461,2020
+Netherlands,"Europe","eu","Belgium","eubel","bel",3773873,2020
+Netherlands,"Europe","eu","Bulgaria","eubgr","bgr",74084,2020
+Netherlands,"Europe","eu","Switzerland","euche","che",95355,2020
+Netherlands,"Europe","eu","Czechia","eucze","cze",666565,2020
+Netherlands,"Europe","eu","Germany","eudeu","deu",1307245,2020
+Netherlands,"Europe","eu","Denmark","eudnk","dnk",247340,2020
+Netherlands,"Europe","eu","Spain","euesp","esp",92730,2020
+Netherlands,"Europe","eu","Estonia","euest","est",1263,2020
+Netherlands,"Europe","eu","Finland","eufin","fin",343777,2020
+Netherlands,"Europe","eu","France","eufra","fra",489939,2020
+Netherlands,"Europe","eu","United Kingdom","eugbr","gbr",2117248,2020
+Netherlands,"Europe","eu","Greece","eugrc","grc",21338,2020
+Netherlands,"Europe","eu","Croatia","euhrv","hrv",25,2020
+Netherlands,"Europe","eu","Hungary","euhun","hun",6046,2020
+Netherlands,"Europe","eu","Iceland","euisl","isl",262093,2020
+Netherlands,"Europe","eu","Italy","euita","ita",5366501,2020
+Netherlands,"Europe","eu","Lithuania","eultu","ltu",21844,2020
+Netherlands,"Europe","eu","Latvia","eulva","lva",128,2020
+Netherlands,"Europe","eu","North Macedonia","eumkd","mkd",3920,2020
+Netherlands,"Europe","eu","Malta","eumlt","mlt",1761,2020
+Netherlands,"Europe","eu","Norway","eunor","nor",323567,2020
+Netherlands,"Europe","eu","Poland","eupol","pol",767549,2020
+Netherlands,"Europe","eu","Portugal","euprt","prt",91823,2020
+Netherlands,"Europe","eu","Russia","eurus","rus",1190252,2020
+Netherlands,"Europe","eu","Serbia","eusrb","srb",6689,2020
+Netherlands,"Europe","eu","Slovakia","eusvk","svk",26,2020
+Netherlands,"Europe","eu","Slovenia","eusvn","svn",26040,2020
+Netherlands,"Europe","eu","Sweden","euswe","swe",6331,2020
+Netherlands,"Europe","eu","Ukraine","euukr","ukr",198485,2020
+Netherlands,"North America","na","Canada","nacan","can",8789981,2020
+Netherlands,"North America","na","Costa Rica","nacri","cri",108091,2020
+Netherlands,"North America","na","Dominican Republic","nadom","dom",1333,2020
+Netherlands,"North America","na","Guatemala","nagtm","gtm",144766,2020
+Netherlands,"North America","na","Honduras","nahnd","hnd",1740,2020
+Netherlands,"North America","na","Mexico","namex","mex",1464871,2020
+Netherlands,"North America","na","El Salvador","naslv","slv",11471,2020
+Netherlands,"North America","na","United States","nausa","usa",1711275,2020
+Netherlands,"Oceania","oc","New Zealand","ocnzl","nzl",1642,2020
+Netherlands,"South America","sa","Brazil","sabra","bra",1232,2020
+Netherlands,"South America","sa","Chile","sachl","chl",9874,2020
+Netherlands,"South America","sa","Ecuador","saecu","ecu",6885,2020
+Netherlands,"South America","sa","Peru","saper","per",846,2020
+Netherlands,"Africa","af","Ethiopia","afeth","eth",664382,2021
+Netherlands,"Africa","af","Kenya","afken","ken",516242,2021
+Netherlands,"Africa","af","Morocco","afmar","mar",19431,2021
+Netherlands,"Africa","af","Senegal","afsen","sen",10384,2021
+Netherlands,"Africa","af","Tunisia","aftun","tun",250918,2021
+Netherlands,"Africa","af","Tanzania","aftza","tza",18201,2021
+Netherlands,"Africa","af","Uganda","afuga","uga",296201,2021
+Netherlands,"Africa","af","South Africa","afzaf","zaf",348526,2021
+Netherlands,"Asia","as","United Arab Emirates","asare","are",190754,2021
+Netherlands,"Asia","as","Armenia","asarm","arm",109104,2021
+Netherlands,"Asia","as","Azerbaijan","asaze","aze",4065,2021
+Netherlands,"Asia","as","China","aschn","chn",484277,2021
+Netherlands,"Asia","as","Cyprus","ascyp","cyp",1396,2021
+Netherlands,"Asia","as","Jordan","asjor","jor",1187,2021
+Netherlands,"Asia","as","Japan","asjpn","jpn",2340983,2021
+Netherlands,"Asia","as","South Korea","askor","kor",802149,2021
+Netherlands,"Asia","as","Malaysia","asmys","mys",4551,2021
+Netherlands,"Asia","as","Oman","asomn","omn",1888,2021
+Netherlands,"Asia","as","Saudi Arabia","assau","sau",19419,2021
+Netherlands,"Asia","as","Turkey","astur","tur",467430,2021
+Netherlands,"Asia","as","Uzbekistan","asuzb","uzb",4628,2021
+Netherlands,"Asia","as","Vietnam","asvnm","vnm",766,2021
+Netherlands,"Europe","eu","Austria","euaut","aut",3448,2021
+Netherlands,"Europe","eu","Belgium","eubel","bel",8689522,2021
+Netherlands,"Europe","eu","Bulgaria","eubgr","bgr",99906,2021
+Netherlands,"Europe","eu","Switzerland","euche","che",160412,2021
+Netherlands,"Europe","eu","Czechia","eucze","cze",1045115,2021
+Netherlands,"Europe","eu","Germany","eudeu","deu",3105028,2021
+Netherlands,"Europe","eu","Denmark","eudnk","dnk",1310087,2021
+Netherlands,"Europe","eu","Spain","euesp","esp",4714802,2021
+Netherlands,"Europe","eu","Estonia","euest","est",22585,2021
+Netherlands,"Europe","eu","Finland","eufin","fin",774860,2021
+Netherlands,"Europe","eu","France","eufra","fra",767293,2021
+Netherlands,"Europe","eu","United Kingdom","eugbr","gbr",4114736,2021
+Netherlands,"Europe","eu","Greece","eugrc","grc",139384,2021
+Netherlands,"Europe","eu","Croatia","euhrv","hrv",86423,2021
+Netherlands,"Europe","eu","Hungary","euhun","hun",404307,2021
+Netherlands,"Europe","eu","Ireland","euirl","irl",18065,2021
+Netherlands,"Europe","eu","Iceland","euisl","isl",4666,2021
+Netherlands,"Europe","eu","Italy","euita","ita",6375251,2021
+Netherlands,"Europe","eu","Lithuania","eultu","ltu",69775,2021
+Netherlands,"Europe","eu","Luxembourg","eulux","lux",34,2021
+Netherlands,"Europe","eu","Latvia","eulva","lva",1793,2021
+Netherlands,"Europe","eu","North Macedonia","eumkd","mkd",8761,2021
+Netherlands,"Europe","eu","Malta","eumlt","mlt",10423,2021
+Netherlands,"Europe","eu","Norway","eunor","nor",558450,2021
+Netherlands,"Europe","eu","Poland","eupol","pol",1551362,2021
+Netherlands,"Europe","eu","Portugal","euprt","prt",26739,2021
+Netherlands,"Europe","eu","Romania","eurou","rou",156873,2021
+Netherlands,"Europe","eu","Russia","eurus","rus",894858,2021
+Netherlands,"Europe","eu","Serbia","eusrb","srb",31238,2021
+Netherlands,"Europe","eu","Slovakia","eusvk","svk",225033,2021
+Netherlands,"Europe","eu","Slovenia","eusvn","svn",31562,2021
+Netherlands,"Europe","eu","Sweden","euswe","swe",262496,2021
+Netherlands,"Europe","eu","Ukraine","euukr","ukr",92085,2021
+Netherlands,"North America","na","Canada","nacan","can",2082221,2021
+Netherlands,"North America","na","Costa Rica","nacri","cri",155697,2021
+Netherlands,"North America","na","Guatemala","nagtm","gtm",144619,2021
+Netherlands,"North America","na","Honduras","nahnd","hnd",12882,2021
+Netherlands,"North America","na","Mexico","namex","mex",674852,2021
+Netherlands,"North America","na","El Salvador","naslv","slv",78374,2021
+Netherlands,"North America","na","United States","nausa","usa",3384193,2021
+Netherlands,"South America","sa","Brazil","sabra","bra",3923,2021
+Netherlands,"South America","sa","Chile","sachl","chl",22024,2021
+Netherlands,"South America","sa","Ecuador","saecu","ecu",7972,2021
+Netherlands,"South America","sa","Peru","saper","per",1149,2021

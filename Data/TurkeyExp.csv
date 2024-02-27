@@ -1,0 +1,37 @@
+Exporter,"Continent","Continent ID","Country","Country ID","ISO 3","Trade Value","Year"
+Turkey,"Africa","af","Ethiopia","afeth","eth",5760,2018
+Turkey,"Africa","af","South Africa","afzaf","zaf",24333,2018
+Turkey,"Asia","as","Azerbaijan","asaze","aze",26038,2018
+Turkey,"Asia","as","Kuwait","askwt","kwt",5277,2018
+Turkey,"Europe","eu","Belgium","eubel","bel",76042,2018
+Turkey,"Europe","eu","Netherlands","eunld","nld",796,2018
+Turkey,"Europe","eu","Russia","eurus","rus",313507,2018
+Turkey,"Africa","af","South Africa","afzaf","zaf",29383,2019
+Turkey,"Asia","as","Azerbaijan","asaze","aze",49373,2019
+Turkey,"Asia","as","Iran","asirn","irn",1978,2019
+Turkey,"Asia","as","Uzbekistan","asuzb","uzb",78494,2019
+Turkey,"Europe","eu","Belgium","eubel","bel",120505,2019
+Turkey,"Europe","eu","France","eufra","fra",397,2019
+Turkey,"Europe","eu","Russia","eurus","rus",401720,2019
+Turkey,"Africa","af","South Africa","afzaf","zaf",25541,2020
+Turkey,"Asia","as","Azerbaijan","asaze","aze",6617,2020
+Turkey,"Asia","as","Georgia","asgeo","geo",8580,2020
+Turkey,"Asia","as","Iran","asirn","irn",11523,2020
+Turkey,"Asia","as","Kazakhstan","askaz","kaz",32355,2020
+Turkey,"Asia","as","Uzbekistan","asuzb","uzb",16421,2020
+Turkey,"Europe","eu","Albania","eualb","alb",73,2020
+Turkey,"Europe","eu","Belgium","eubel","bel",179574,2020
+Turkey,"Europe","eu","United Kingdom","eugbr","gbr",5883,2020
+Turkey,"Europe","eu","Russia","eurus","rus",491296,2020
+Turkey,"Europe","eu","Ukraine","euukr","ukr",6389,2020
+Turkey,"Africa","af","South Africa","afzaf","zaf",4565,2021
+Turkey,"Asia","as","Azerbaijan","asaze","aze",4275,2021
+Turkey,"Asia","as","Georgia","asgeo","geo",12261,2021
+Turkey,"Asia","as","Iran","asirn","irn",111805,2021
+Turkey,"Asia","as","South Korea","askor","kor",23071,2021
+Turkey,"Asia","as","Oman","asomn","omn",198351,2021
+Turkey,"Europe","eu","Belgium","eubel","bel",214672,2021
+Turkey,"Europe","eu","Greece","eugrc","grc",9225,2021
+Turkey,"Europe","eu","Moldova","eumda","mda",1025,2021
+Turkey,"Europe","eu","Russia","eurus","rus",377913,2021
+Turkey,"Europe","eu","Ukraine","euukr","ukr",8091,2021

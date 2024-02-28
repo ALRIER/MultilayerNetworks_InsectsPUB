@@ -1,5 +1,6 @@
 library(readr)
 Exporters <- read_csv("Data/InsectsLeadingExporters.csv")
+Exporters <- read_csv("Data/InsectsLeadingExporters.csv")
 BestBuyers <- subset(Exporters, grepl("CAN|USA|CRI|DEU|ARE", ImporterCode))
 COL <- subset(BestBuyers, grepl("COL", ExporterCode))
 CAN <- subset(BestBuyers, grepl("CAN", ExporterCode))
